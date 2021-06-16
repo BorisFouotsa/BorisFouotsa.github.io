@@ -1,5 +1,10 @@
-Welcome to my webpage which is under construction !!
+---
+layout: page
+title: Home
+---
 
-See you soon!
+Welcome !!
 
-Ciao!
+# Other thoughts
+
+This is nice.
