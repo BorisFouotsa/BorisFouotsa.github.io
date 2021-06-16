@@ -1,3 +1,6 @@
-# Hi! I am Boris Fouotsa.
+# Hi! I am Boris Fouotsa.    
 Welcome to my webpage which is under construction !!
-See you soon
+
+See you soon!
+
+Ciao!
