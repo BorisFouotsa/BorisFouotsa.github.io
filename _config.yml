@@ -2,9 +2,10 @@
 title: Boris Fouotsa
 author: Boris Fouotsa
 email: takoboris.fouotsa@uniroma3.it
-description: A wonderful site
+#description: Homepage
 twitter_username: FouotsaB
 github_username: BorisFouotsa
+orcid: 0000-0003-1821-8406
 
 # Build settings
 markdown: kramdown
