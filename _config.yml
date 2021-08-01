@@ -2,10 +2,29 @@
 title: Boris Fouotsa
 author: Boris Fouotsa
 email: takoboris.fouotsa@uniroma3.it
-twitter_username: FouotsaB
-github_username: BorisFouotsa
-orcid_username: 0000-0003-1821-8406
-linkedin_username: tako-boris-fouotsa-799737118
+#twitter_username: FouotsaB
+#github_username: BorisFouotsa
+#orcid_username: 0000-0003-1821-8406
+#linkedin_username: tako-boris-fouotsa-799737118
+
+# generate social links in footer
+  social_links:
+    twitter: FouotsaB
+    github:  BorisFouotsa
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: Tako Boris Fouotsa
+    orcid: 0000-0003-1821-8406
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
 # Build settings
 markdown: kramdown
