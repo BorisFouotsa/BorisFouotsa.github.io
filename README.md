@@ -1,2 +1,2 @@
 # Here is my webpage
-It is available at [BorisFouotsa.github.io](https://borisfouotsa.github.io/)
+It is available at [https://borisfouotsa.github.io/](https://borisfouotsa.github.io/)
