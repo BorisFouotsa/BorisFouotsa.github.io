@@ -16,7 +16,7 @@ order: 2
 **July-October 2021:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.\
 **August 2020:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.\
 **March 2020 - July 2020:** Research visit at the University of Birmingham's School of Computer Science, working with Pr. Christophe Petit.\
-**August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.\
+**August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.
 
 
 ### Tutoring
