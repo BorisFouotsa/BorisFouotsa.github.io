@@ -9,7 +9,8 @@ order: 2
 - IET Information Security journal;
 - Inscrypt 2021;
 - PQCrypto 2021;
-- PKC 2021.
+- PKC 2021;
+- **2019**: "Scriba" editor, Roman Number Theory Association (RNTA) 5th mini symposium  2019. 
 
 ### Research visits
 
