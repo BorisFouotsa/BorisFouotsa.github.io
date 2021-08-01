@@ -27,11 +27,6 @@ ANTS-XIV's summer school, CIMPA School Limbe July 2019, EMA School  Yaounde July
 - **July 2021** Member of the early stage researcher organising committee of EMA  (Ecole de Mathematiques Africaine) School Dschang, University of Dschang.
 - **August 2020**: Co-initiator (with Pr. Emmanuel Fouotsa of the University of Bamenda) of the MaC (Mathematics and Cryptology) Seminars in 2020.
 These are online seminars held by Cameroonian (professionals and early stage)  researchers  working on Cryptography and related topics. 
-We are currently preparing a [web webpage](https://sites.google.com/view/macseminars/about) for these seminars.\
+We are currently preparing a [web webpage](https://sites.google.com/view/macseminars/about) for these seminars.
 - **July 2018**  Member of the early stage researcher organising committee of EMA  (Ecole de Mathematiques Africaine) School Yaounde, University of Yaounde I.
 
-
-### Communities membership
-**2021 - Now**: Member of the Cameroonian MaC (Mathematics and Cryptology) Research Group.
-**2019 - Now**: Member of the International Association for Cryptologic Research ([IACR](https://iacr.org)).\
-**2018 - Now**: Member of Equipe de Recherche en Algebre et Logique (ERAL), Cameroon.
