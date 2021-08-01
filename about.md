@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-order: 2
+order: 0
 ---
 
 This is an about page about this awesome site.
