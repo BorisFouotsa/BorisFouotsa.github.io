@@ -8,7 +8,7 @@ Welcome to my webpage!!
 
 ![alt text][logo]
 
-[logo]: https://github.com/BorisFouotsa/BorisFouotsa.github.io/pictures/Boris.jpg
+[logo]: https://github.com/BorisFouotsa/BorisFouotsa.github.io/tree/main/pictures/Boris.jpg
 
 # Other thoughts
 
