@@ -29,3 +29,7 @@ Email: takoboris.fouotsa@uniroma3.it
 
 - Fabrizio Barroero, Fixed-term Researcher, Department of Mathematics and Physics, University of Roma tre, [home page](https://sites.google.com/site/barroerofabrizio/Home).
 
+
+#### My various profiles !!
+
+<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Boris.jpg" width=50% height=50%>
