@@ -31,7 +31,7 @@ Email: takoboris.fouotsa@uniroma3.it
 
 
 #### My various profiles !! 
-[![alt text](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png?raw=true width=50% height=50%)]https://twitter.com/FouotsaB
+[![alt text](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png?raw=true)]https://twitter.com/FouotsaB
 [<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png" width=50% height=50%>](https://twitter.com/FouotsaB)  
 [<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/researchgate.png" width=50% height=50%>](https://www.researchgate.net/profile/Tako-Boris-Fouotsa) 
 [<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/linkedin.jpg" width=5% height=5%>](https://www.linkedin.com/in/tako-boris-fouotsa-799737118/)
