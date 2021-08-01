@@ -30,6 +30,13 @@ Email: takoboris.fouotsa@uniroma3.it
 - Fabrizio Barroero, Fixed-term Researcher, Department of Mathematics and Physics, University of Roma tre, [home page](https://sites.google.com/site/barroerofabrizio/Home).
 
 
-#### My various profiles !!
+#### My various profiles !! 
 
-[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Boris.jpg" width=5% height=5%>](https://www.jobs.ac.uk/job/CHC351/research-fellow-post-quantum-cryptography)
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png" width=50% height=50%>](https://twitter.com/FouotsaB)  
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/researchgate.png" width=50% height=50%>](https://www.researchgate.net/profile/Tako-Boris-Fouotsa) 
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/linkedin.jpg" width=5% height=5%>](https://www.linkedin.com/in/tako-boris-fouotsa-799737118/)
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/ORCID.png" width=5% height=5%>](https://orcid.org/0000-0003-1821-8406)
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/scholar.png" width=5% height=5%>](https://scholar.google.com/citations?hl=en&user=BY8zt_QAAAAJ)
+[<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/dblp.png" width=5% height=5%>](https://dblp.org/pid/289/2242.html)
+
+
