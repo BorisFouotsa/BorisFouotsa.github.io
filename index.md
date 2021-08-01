@@ -32,4 +32,4 @@ Email: takoboris.fouotsa@uniroma3.it
 
 #### My various profiles !!
 
-<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Boris.jpg" width=50% height=50%>
+<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Boris.jpg" width=5% height=5%>
