@@ -12,5 +12,5 @@ order: 1
 
 ### Thesis
 
-- Master thesis: **Codes cycliques divisibles sur un corps de Galois premier** (*Cyclic divisible codes over prime fields*), [file](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/MasterThesisBF.pdf) (in french).
+- Master thesis: **Codes cycliques divisibles sur un corps de Galois premier** (*Cyclic divisible codes over prime fields*), [file](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/MasterThesisBF.pdf?raw=true) (in french).
 - PhD Thesis: *I am not yet a PhD, looking forward into becoming one :smiley: :smiley:*.
