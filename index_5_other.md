@@ -16,6 +16,6 @@ order: 2
 - Cycling
 - Football
 - Music and Dance
-- Video games
+- Video games (FIFA and Pro Evolution Soccer)
 - Photography
 
