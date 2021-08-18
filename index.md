@@ -13,7 +13,7 @@ order: 1
 #### Welcome to my webpage !! 
 
 I am Tako Boris Fouotsa, \
-Third year PhD student in Mathematics (Cryptography),\
+Last year PhD student in Mathematics (Cryptography),\
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),\
 University of Roma Tre, Italy.\
 Address: Largo San Leonardo Murialdo 1, 00146 RM.\
@@ -21,7 +21,11 @@ Email: takoboris.fouotsa@uniroma3.it
 
 #### Research interest
 
+##### Primary
 *Isogeny-Based Cryptography*: Cryptanalysis of existing isogeny-based schemes and design of new schemes.
+
+##### Secondary
+Whilling to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptography*, *MPC* and *FHE*. 
 
 #### Supervisors
 
