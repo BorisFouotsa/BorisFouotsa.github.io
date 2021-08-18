@@ -25,7 +25,7 @@ Email: takoboris.fouotsa@uniroma3.it
 *Isogeny-Based Cryptography*: Cryptanalysis of existing isogeny-based schemes and design of new schemes.
 
 ##### Secondary
-Whilling to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptography*, *MPC* and *FHE*. 
+Willing to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptography*, *MPC* and *FHE*. 
 
 #### Supervisors
 
