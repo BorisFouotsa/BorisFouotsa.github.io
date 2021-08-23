@@ -26,6 +26,7 @@ RNTA 5th Mini Symposium 2019.
 
 #### Workshops
 
+Banff Isogeny workshop (August 22 to August 27, 2021) on : [Supersingular Isogeny Graphs in Cryptography](https://www.birs.ca/events/2021/5-day-workshops/21w5229),\
 SAC 2020 workshop,\
 NIST NCCoE workshop 7  October 2020,\
 ANTS-XIV's workshop,\
