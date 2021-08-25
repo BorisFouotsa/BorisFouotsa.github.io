@@ -29,7 +29,7 @@ Willing to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptograp
 
 #### Supervisors
 
-- Christophe Petit, Assistant Professor, Universite Libre de Bruxelles and University of Birmingham, [home page](http://homepages.ulb.ac.be/~chripeti/index.html).
+- Christophe Petit, Associate Professor, Universite Libre de Bruxelles and University of Birmingham, [home page](http://homepages.ulb.ac.be/~chripeti/index.html).
 
 - Fabrizio Barroero, Fixed-term Researcher, Department of Mathematics and Physics, University of Roma tre, [home page](https://sites.google.com/site/barroerofabrizio/Home).
 
