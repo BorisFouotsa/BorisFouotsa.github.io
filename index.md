@@ -37,3 +37,9 @@ Willing to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptograp
 #### My various profiles !! 
 
 [![twitter](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png?raw=true)](https://twitter.com/FouotsaB)....................[![researchgate](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/researchgate.png?raw=true)](https://www.researchgate.net/profile/Tako-Boris-Fouotsa)....................[![linkedin](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/linkedin.jpg?raw=true)](https://www.linkedin.com/in/tako-boris-fouotsa-799737118/)....................[![orcid](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/ORCID.png?raw=true)](https://orcid.org/0000-0003-1821-8406)....................[![scholar](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/scholar.png?raw=true)](https://scholar.google.com/citations?hl=en&user=BY8zt_QAAAAJ)....................[![dblp](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/dblp.png?raw=true)](https://dblp.org/pid/289/2242.html)
+
+
+###  News
+
+- Paper *SETA* (the latest version) accepted at Asiacrypt 2021. This is a joint work with Luca De Feo, Cyprien Delpech de Saint-Guilhem, Antonin Leroux, Péter Kutas, Christophe Petit, Javier Silva, Benjamin Wesolowski.
+- Paper *SHealS and Heals* accepted at Asiacrypt 2021. This is a joint work with Christophe Petit. 
