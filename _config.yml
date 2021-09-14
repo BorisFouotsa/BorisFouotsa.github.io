@@ -10,4 +10,4 @@ github_username: BorisFouotsa
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
