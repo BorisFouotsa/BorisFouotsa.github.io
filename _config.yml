@@ -11,4 +11,3 @@ github_username: BorisFouotsa
 # Build settings
 markdown: kramdown
 theme: minima
-$background-color: #1d1d1d; /* a dark, off-black for the bg */
