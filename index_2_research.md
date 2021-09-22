@@ -19,11 +19,11 @@ order: 1
 1- At ASIACRYPT 2021: *SHealS and Heals: PKEs from a key validation method for SIDH*. This is a joint work with Christophe Petit. 
 
 ### Eprints 
-1- *On the Isogeny Problem with Torsion Points*, joint work with P. Kutas and S.-P. Merz. [Eprint](https://eprint.iacr.org/2021/153) 
+1- *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas and Simon-Philipp Merz. [Eprint](https://eprint.iacr.org/2021/153) 
 
 
 
 ### Thesis
 
 - Master thesis: **Codes cycliques divisibles sur un corps de Galois premier** (*Cyclic divisible codes over prime fields*), [file](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/MasterThesisBF.pdf?raw=true) (in french).
-- PhD Thesis: *I am not yet a PhD, looking forward to becoming one :smiley: :smiley:*.
+- PhD Thesis: *I am not yet a PhD, looking forward to becoming one*. :smiley: :smiley:
