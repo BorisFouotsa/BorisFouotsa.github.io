@@ -15,6 +15,7 @@ order: 1
 
 ### To appear 
 2- At ASIACRYPT 2021: *SETA: Supersingular Encryption from Torsion point Attacks*. This is a joint work with Luca De Feo, Cyprien Delpech de Saint-Guilhem, Antonin Leroux, Péter Kutas, Christophe Petit, Javier Silva, Benjamin Wesolowski. [Eprint](https://eprint.iacr.org/2019/1291).
+
 1- At ASIACRYPT 2021: *SHealS and Heals: PKEs from a key validation method for SIDH*. This is a joint work with Christophe Petit. 
 
 ### Eprints 
