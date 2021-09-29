@@ -36,11 +36,12 @@ ANTS-XIV's workshop,\
 
 #### Schools
 
-Bristol's Isogeny-based cryptography [school](https://isogenyschool2020.co.uk) (Online July-Sept 2021),\
-EMA and CRAG-10 Dschang 2021 (19th - 30th July 2021), \
-ANTS-XIV's summer school,\
-CIMPA School Limbe July 2019, \
-EMA School  Yaounde July 2018, \
+Digital CISPA summer school on *Coding Techniques & Advanced Post-Quantum Cryptography*. More information about the school can be found [here](https://cispa.de/en/news-and-events/events-archive/2021/digital-cispa-summer-school-2021).\
+Bristol's Isogeny-based cryptography [school](https://isogenyschool2020.co.uk) (Online July-Sept 2021).\
+EMA and CRAG-10 Dschang 2021 (19th - 30th July 2021). \
+ANTS-XIV's summer school.\
+CIMPA School Limbe July 2019. \
+EMA School  Yaounde July 2018. \
 CIMPA School  Kinshasa May 2018.
 
 ### Organized events
