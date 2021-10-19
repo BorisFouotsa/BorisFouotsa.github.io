@@ -9,6 +9,7 @@ order: 3
 
 #### Conferences
 
+Eurocrypt 2021,\
 Crypto 2021,\
 PQCrypto 2021,\
 Third NIST PQC Standardization Conference (June 7-9 2021),\
