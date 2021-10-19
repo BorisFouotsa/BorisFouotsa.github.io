@@ -20,12 +20,19 @@ order: 2
 **March 2020 - July 2020:** Research visit at the University of Birmingham's School of Computer Science, working with Pr. Christophe Petit.\
 **August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.
 
-### Tutoring
+### Student tutoring
+
+**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.\
+**July 2021 - Now:** Mayeukeu Aubin, PhD student in Isogeny-based Cryptography, University of Dschang, Cameroon.
+
+### Course tutoring
 
 **May 2019 - July 2019:** Tutor (remote), Nepal Algebra Project, Tribhuvan University Nepal.\
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
 ### Talks 
+
+**October 2021**: *A closer look at the torsion points in SIDH*, Invited talk at LASEC, EPFL.\
 **July 2021**: *SETA: Supersingular Encryption from Torsion points Attack*, CRAG-10.\
 **July 2021**: *SimS: A Simplification of SiGamal*, PQCrypto 2021.\
 **June 2021**: *SimS: A Simplification of SiGamal*, Cryptography Seminar, University of Roma Tre.\
