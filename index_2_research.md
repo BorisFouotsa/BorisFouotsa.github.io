@@ -5,7 +5,7 @@ order: 1
 ---
 
 ###  Latest news
-- Our paper *A New Adaptive attack on SIDH* accepted at CT-RSA. This is a joint work with Christophe Petit. 
+- Our paper *A New Adaptive attack on SIDH* accepted at CT-RSA 2022. This is a joint work with Christophe Petit. 
 - New paper: *A New Adaptive attack on SIDH*. This is a joint work with Christophe Petit.   
 - Our paper *SETA: Supersingular Encryption from Torsion point Attacks* is online.  
 - Paper *SETA* (the latest version) accepted at Asiacrypt 2021. This is a joint work with Luca De Feo, Cyprien Delpech de Saint-Guilhem, Antonin Leroux, Péter Kutas, Christophe Petit, Javier Silva, Benjamin Wesolowski.
