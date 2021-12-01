@@ -5,7 +5,7 @@ order: 1
 ---
 
 ###  Latest news
-- Our paper *On the Isogeny Problem with Torsion Points* accepted at PKC 2022. This is a joint work with Péter Kutas and Simon-Philipp Merz.
+- Our paper *On the Isogeny Problem with Torsion Points* accepted at PKC 2022. This is a joint work with Péter Kutas, Simon-Philipp Merz and Yan Bo Ti.
 - Our paper *A New Adaptive attack on SIDH* accepted at CT-RSA 2022. This is a joint work with Christophe Petit. 
 - New paper: *A New Adaptive attack on SIDH*. This is a joint work with Christophe Petit.   
 - Our paper *SETA: Supersingular Encryption from Torsion point Attacks* is online.  
@@ -17,7 +17,7 @@ order: 1
 1- *SimS: A Simplification of SiGamal*,  joint work with Christophe Petit, published at PQCrypto 2021. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_15) [Eprint](https://eprint.iacr.org/2021/218)
 
 ### To appear 
-4- At PKC 2022: *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas and Simon-Philipp Merz. [Eprint](https://eprint.iacr.org/2021/153) 
+4- At PKC 2022: *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas, Simon-Philipp Merz and Yan Bo Ti. [Eprint](https://eprint.iacr.org/2021/153) 
 
 3- At CT-RSA 2022: *A New Adaptive attack on SIDH*. This is a joint work with Christophe Petit.  [Eprint](https://eprint.iacr.org/2021/1322).
 
