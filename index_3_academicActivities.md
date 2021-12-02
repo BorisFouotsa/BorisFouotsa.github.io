@@ -31,8 +31,8 @@ order: 2
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
 ### Talks 
-**December**: *SETA: Supersingular Encryption from Torsion points Attack*,  Asiacrypt 2021 (5 min presentation).\
-**December**: *SHealS and Heals: isogeny-based PKEs from a key validation method for SIDH*, Asiacrypt 2021.\
+**December 2021**: *SETA: Supersingular Encryption from Torsion points Attack*,  Asiacrypt 2021 (5 min presentation).\
+**December 2021**: *SHealS and Heals: isogeny-based PKEs from a key validation method for SIDH*, Asiacrypt 2021.\
 **October 2021**: *A closer look at the torsion points in SIDH*, Invited talk at LASEC, EPFL.\
 **July 2021**: *SETA: Supersingular Encryption from Torsion points Attack*, CRAG-10.\
 **July 2021**: *SimS: A Simplification of SiGamal*, PQCrypto 2021.\
