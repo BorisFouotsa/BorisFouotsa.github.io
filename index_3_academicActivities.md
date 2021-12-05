@@ -4,6 +4,10 @@ title: Academic activities
 order: 2
 ---
 
+### Program committee
+
+- [ANTS 2022](https://people.maths.bris.ac.uk/~jb12407/ANTS-XV/index.html), University of Bristol, August 8-12 2022. 
+
 ### Reviewing services
 
 - IMACC 
