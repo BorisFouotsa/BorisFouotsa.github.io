@@ -23,7 +23,7 @@ order: 1
 ### Published  
 3- *SETA: Supersingular Encryption from Torsion point Attacks*, joint work with Luca De Feo, Cyprien Delpech de Saint-Guilhem, Antonin Leroux, Péter Kutas, Christophe Petit, Javier Silva, Benjamin Wesolowski. Published at ASIACRYPT 2021. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-92068-5_9)  [Eprint](https://eprint.iacr.org/2019/1291).
 
-2- *SHealS and Heals: PKEs from a key validation method for SIDH*,  joint work with Christophe Petit.  Published at ASIACRYPT 2021. [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-92068-5_10).
+2- *SHealS and Heals: PKEs from a key validation method for SIDH*,  joint work with Christophe Petit.  Published at ASIACRYPT 2021. [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-92068-5_10), [eprint](https://eprint.iacr.org/2021/1596).
 
 1- *SimS: A Simplification of SiGamal*,  joint work with Christophe Petit, published at PQCrypto 2021. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_15) [Eprint](https://eprint.iacr.org/2021/218)
 
