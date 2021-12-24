@@ -10,8 +10,8 @@ order: 2
 
 ### Reviewing services
 
-- IEEE Access 
-- IMACC 
+- IEEE Access journal;
+- IMACC;
 - IET Information Security journal;
 - Inscrypt;
 - PQCrypto;
