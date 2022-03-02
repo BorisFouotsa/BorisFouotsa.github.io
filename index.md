@@ -13,25 +13,22 @@ order: 1
 #### Welcome to my webpage !! 
 
 I am Tako Boris Fouotsa, \
-Last year PhD student in Mathematics (Cryptography),\
+a Postdoctoral researcher at the LASEC group, EPFL, under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).\
+
+Previously, I was a PhD student at the 
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),\
-University of Roma Tre, Italy.\
-Address: Largo San Leonardo Murialdo 1, 00146 RM.\
-Email: takoboris.fouotsa@uniroma3.it
+University of Roma Tre (Italy), under the supervision of Professor [Christophe Petit](http://homepages.ulb.ac.be/~chripeti/index.html) and Professor [Fabrizio Barroero](https://sites.google.com/site/barroerofabrizio/Home). I was also short term research assistant at the University of Birmingham's School of Computer Science during February 2022, under the supervision of Christophe Petit. 
 
 #### Research interest
 
-##### Primary
-*Isogeny-Based Cryptography*: Cryptanalysis of existing isogeny-based schemes and design of new schemes.
+*Isogeny-Based Cryptography*: mostly Cryptanalysis and Design. 
 
-##### Secondary
-Willing to learn more about *Code-Based Cryptography*, *Lattice-Based Cryptography*, *MPC* and *FHE*. 
 
-#### Supervisors
+#### Contact
+Office: INF 235 (Bâtiment INF)\
+Address: Station 14, CH-1015 Lausanne\
+Email: tako.fouotsa@epfl.ch
 
-- Christophe Petit, Associate Professor, Universite Libre de Bruxelles and University of Birmingham, [home page](http://homepages.ulb.ac.be/~chripeti/index.html).
-
-- Fabrizio Barroero, Associate Professor, Department of Mathematics and Physics, University of Roma tre, [home page](https://sites.google.com/site/barroerofabrizio/Home).
 
 
 #### My various profiles !! 
