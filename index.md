@@ -12,8 +12,8 @@ order: 1
 
 #### Welcome to my webpage !! 
 
-I am Tako Boris Fouotsa, \
-a Postdoctoral researcher at the LASEC group, EPFL, under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).\
+I am Tako Boris Fouotsa,\
+a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).\
 
 Previously, I was a PhD student at the 
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),\
