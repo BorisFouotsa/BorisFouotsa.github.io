@@ -5,7 +5,7 @@ order: 1
 ---
 
 ###  Latest news
-0- *No News, Good news, ...:smiley:*
+0- *No News, Good news, ... :smiley:*
  
 
 ### Published  
@@ -26,5 +26,5 @@ order: 1
 
 ### Thesis
 
-- Master thesis: **Codes cycliques divisibles sur un corps de Galois premier** (*Cyclic divisible codes over prime fields*), [file](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/MasterThesisBF.pdf?raw=true) (in french).
 - PhD Thesis: **On the design and cryptanalysis of Isogeny-Based Public Key Encryption schemes**, 25th February 2022, [file](http://www.matfis.uniroma3.it/Allegati/Dottorato/TESI/fboris/Fouotsa_thesis_final_.pdf).
+- Master thesis: **Codes cycliques divisibles sur un corps de Galois premier** (*Cyclic divisible codes over prime fields*), [file](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/MasterThesisBF.pdf?raw=true) (in french).
