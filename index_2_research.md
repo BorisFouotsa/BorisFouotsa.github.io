@@ -7,6 +7,9 @@ order: 1
 ###  Latest news
 0- *No News, Good news, ... :smiley:*
  
+### Eprints 
+6 - *Failling to hash into supersingular isogeny Graphs*, joint work with Jeremy Booher, Ross Bowden, Javad Doliskani, Steven D. Galbraith, Sabrina Kunzweiler, Simon-Philipp Merz, Christophe Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. [Eprint](https://eprint.iacr.org/2022/518)
+
 
 ### Published  
 5- *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas, Simon-Philipp Merz and Yan Bo Ti. Published at PKC 2022. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97121-2_6) [Eprint](https://eprint.iacr.org/2021/153) 
@@ -19,9 +22,6 @@ order: 1
 
 1- *SimS: A Simplification of SiGamal*,  joint work with Christophe Petit, published at PQCrypto 2021. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_15) [Eprint](https://eprint.iacr.org/2021/218)
 
-
-### Eprints 
-0 - *Still working... :smiley:*
 
 
 ### Thesis
