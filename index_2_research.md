@@ -8,7 +8,7 @@ order: 1
 0- *No News, Good news, ... :smiley:*
  
 ### Eprints 
-6 - *Failling to hash into supersingular isogeny Graphs*, joint work with Jeremy Booher, Ross Bowden, Javad Doliskani, Steven D. Galbraith, Sabrina Kunzweiler, Simon-Philipp Merz, Christophe Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. [Eprint](https://eprint.iacr.org/2022/518)
+6 - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. [Eprint](https://eprint.iacr.org/2022/518)
 
 
 ### Published  
