@@ -33,7 +33,7 @@ RNTA 5th Mini Symposium 2019.
 #### Workshops
 
 [Summer School in post-quantum cryptography](http://pqcsummerschool2022.inf.elte.hu), August 1-5 2022, Budapest, Hungary, \
-[An ordinary day in supersingularland](https://defeo.lu/2022-isogeny-day/), July 07 2022,  IBM Reasearch, Zurich, Switzerland,\
+[An ordinary day in supersingularland](https://defeo.lu/2022-isogeny-day/), July 07 2022,  IBM Research, Zurich, Switzerland,\
 Banff Isogeny workshop (August 22 to August 27, 2021) on : [Supersingular Isogeny Graphs in Cryptography](https://www.birs.ca/events/2021/5-day-workshops/21w5229),\
 SAC 2020 workshop,\
 NIST NCCoE workshop 7  October 2020,\
