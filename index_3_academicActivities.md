@@ -18,7 +18,11 @@ order: 2
 - PKC;
 - "Scriba" editor, Roman Number Theory Association (RNTA) 5th mini symposium  2019. 
 
-### Research visits
+
+### Short visits
+**July 07-08 2022:** IBM Research, Zurich, switzerland.\
+
+### Research stays
 
 **July-October 2021:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.\
 **August 2020:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.\
