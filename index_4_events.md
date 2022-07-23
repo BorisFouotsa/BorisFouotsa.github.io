@@ -10,7 +10,7 @@ order: 3
 #### Conferences
 
 [AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco, \
-[Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21, 2022, Marina di San Gregorio, Patù (Lecce), Italy, \ 
+[Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21, 2022, Marina di San Gregorio, Lecce, Italy, \ 
 [CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz), \
 Asiacrypt 2021, \
 Eurocrypt 2021,\
