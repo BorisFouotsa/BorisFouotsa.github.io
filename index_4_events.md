@@ -9,6 +9,9 @@ order: 3
 
 #### Conferences
 
+[AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco, \
+[Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21, 2022, Marina di San Gregorio, Patù (Lecce), Italy,\ 
+[CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz), \
 Asiacrypt 2021, \
 Eurocrypt 2021,\
 Crypto 2021,\
@@ -29,6 +32,8 @@ RNTA 5th Mini Symposium 2019.
 
 #### Workshops
 
+[Summer School in post-quantum cryptography](http://pqcsummerschool2022.inf.elte.hu), August 1-5 2022, Budapest, Hungary, \
+[An ordinary day in supersingularland](https://defeo.lu/2022-isogeny-day/), July 07 2022,  IBM Reasearch, Zurich, Switzerland,\
 Banff Isogeny workshop (August 22 to August 27, 2021) on : [Supersingular Isogeny Graphs in Cryptography](https://www.birs.ca/events/2021/5-day-workshops/21w5229),\
 SAC 2020 workshop,\
 NIST NCCoE workshop 7  October 2020,\
