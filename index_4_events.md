@@ -10,7 +10,7 @@ order: 3
 #### Conferences
 
 [AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco, \
-[Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21, 2022, Marina di San Gregorio, Patù (Lecce), Italy,\ 
+[Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21, 2022, Marina di San Gregorio, Patù (Lecce), Italy, \ 
 [CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz), \
 Asiacrypt 2021, \
 Eurocrypt 2021,\
@@ -44,7 +44,7 @@ ANTS-XIV's workshop,\
 #### Schools
 
 [Digital CISPA summer school](https://cispa.de/en/news-and-events/events-archive/2021/digital-cispa-summer-school-2021) on *Coding Techniques & Advanced Post-Quantum Cryptography*.\
-Bristol's Isogeny-based cryptography [school](https://isogenyschool2020.co.uk) (Online July-Sept 2021).\
+Bristol's Isogeny-based cryptography [school](https://isogenyschool2020.co.uk) (Online July-Sept 2021). \
 EMA and CRAG-10 Dschang 2021 (19th - 30th July 2021). \
 ANTS-XIV's summer school.\
 CIMPA School Limbe July 2019. \
