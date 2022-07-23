@@ -20,7 +20,8 @@ order: 2
 
 
 ### Short visits
-**July 07-08 2022:** IBM Research, Zurich, switzerland.\
+
+**July 07-08 2022:** IBM Research, Zurich, switzerland.
 
 ### Research stays
 
