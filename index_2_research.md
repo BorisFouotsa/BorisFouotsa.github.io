@@ -6,12 +6,18 @@ order: 1
 
 ###  Latest news
 0- *No News, Good news, ... :smiley:*
- 
+
+### In progress
+8 - *Masking SIDH does not help*.
+
+
 ### Eprints 
-6 - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. [Eprint](https://eprint.iacr.org/2022/518)
+7 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
 ### Published  
+6 - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. Published at CFAIL 2022.  [Eprint](https://eprint.iacr.org/2022/518)
+
 5 - *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas, Simon-Philipp Merz and Yan Bo Ti. Published at PKC 2022. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97121-2_6) [Eprint](https://eprint.iacr.org/2021/153) 
 
 4 - *A New Adaptive attack on SIDH*. This is a joint work with Christophe Petit. Published at CT-RSA 2022. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-95312-6_14)  [Eprint](https://eprint.iacr.org/2021/1322).
