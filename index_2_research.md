@@ -7,9 +7,6 @@ order: 1
 ###  Latest news
 0- *No News, Good news, ... :smiley:*
 
-### In progress
-8 - *Masking SIDH does not help*.
-
 
 ### Eprints 
 7 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
