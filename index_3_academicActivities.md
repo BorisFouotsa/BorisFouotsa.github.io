@@ -22,9 +22,9 @@ order: 2
 
 ### Short visits
 
-**November 28th - December 02nd 2022:** IRMAR, Universite de Rennes I, France.
-**September 19th-20th 2022:** Cybersecurity Research Center, Universite Libre de Bruxelles, Belgium.
-**July 07th-08th 2022:** IBM Research, Zurich, Switzerland.
+**November 28th - December 02nd 2022:** IRMAR, Universite de Rennes I, France.\
+**September 19th-20th 2022:** Cybersecurity Research Center, Universite Libre de Bruxelles, Belgium.\
+**July 07th-08th 2022:** IBM Research, Zurich, Switzerland.\
 
 ### Research stays
 
