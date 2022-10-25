@@ -24,7 +24,7 @@ order: 2
 
 **November 28th - December 02nd 2022:** IRMAR, Universite de Rennes I, France.\
 **September 19th-20th 2022:** Cybersecurity Research Center, Universite Libre de Bruxelles, Belgium.\
-**July 07th-08th 2022:** IBM Research, Zurich, Switzerland.\
+**July 07th-08th 2022:** IBM Research, Zurich, Switzerland.
 
 ### Research stays
 
@@ -44,6 +44,11 @@ order: 2
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
 ### Talks 
+
+**December 2022**: *On the countermeasures to the higher genus torsion point attacks on SIDH*, Séminaire de Cryptographie de Rennes, IRMAR, Universite de Rennes.\
+**November 2022**: *Torsion point images in SIDH: from savior to killer*,  Isogeny club presentation.\
+**September 2022**: *Masking SIDH: where do we stand?*,  Leuven isogeny days, September 21st-23rd 2022.\
+**March 2022**: *A New Adaptive Attack on SIDH*,  CT-RSA 2022.\
 **December 2021**: *SETA: Supersingular Encryption from Torsion points Attack*,  Asiacrypt 2021 (5 min presentation).\
 **December 2021**: *SHealS and Heals: isogeny-based PKEs from a key validation method for SIDH*, Asiacrypt 2021.\
 **October 2021**: *A closer look at the torsion points in SIDH*, Invited talk at LASEC, EPFL.\
