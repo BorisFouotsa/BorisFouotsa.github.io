@@ -10,9 +10,10 @@ order: 2
 
 ### Reviewing services
 
+- Eurocrypt 2023;
 - IEEE Access journal; 
 - IMACC;
-- IET Information Security journal;
+- IET Information Security journal (several times);
 - Inscrypt;
 - PQCrypto;
 - PKC;
@@ -21,7 +22,9 @@ order: 2
 
 ### Short visits
 
-**July 07-08 2022:** IBM Research, Zurich, switzerland.
+**November 28th - December 02nd 2022:** IRMAR, Universite de Rennes I, France.
+**September 19th-20th 2022:** Cybersecurity Research Center, Universite Libre de Bruxelles, Belgium.
+**July 07th-08th 2022:** IBM Research, Zurich, Switzerland.
 
 ### Research stays
 
