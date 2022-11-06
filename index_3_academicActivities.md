@@ -49,7 +49,7 @@ order: 2
 **March 2022**: *A New Adaptive Attack on SIDH*,  CT-RSA 2022.\
 **December 2021**: *SETA: Supersingular Encryption from Torsion points Attack*,  Asiacrypt 2021 (5 min presentation).\
 **December 2021**: *SHealS and Heals: isogeny-based PKEs from a key validation method for SIDH*, Asiacrypt 2021.\
-**October 2021**: *A closer look at the torsion points in SIDH*, Invited talk at LASEC, EPFL.\
+**October 2021**: *A closer look at the torsion points in SIDH*, job talk, LASEC, EPFL.\
 **July 2021**: *SETA: Supersingular Encryption from Torsion points Attack*, CRAG-10.\
 **July 2021**: *SimS: A Simplification of SiGamal*, PQCrypto 2021.\
 **June 2021**: *SimS: A Simplification of SiGamal*, Cryptography Seminar, University of Roma Tre.\
