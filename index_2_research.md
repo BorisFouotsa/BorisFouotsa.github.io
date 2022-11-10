@@ -9,8 +9,7 @@ order: 1
 
 
 ### Eprints 
-8 - *Supersingular Curves You Can Trust*, joint work with A. Basso, G. Codogni, D. Connolly, Zcash Foundation
-L. De Feo, G. M. Lido, T. Morrison, L. Panny, S. Patranabis, B. Wesolowski [Eprint](https://eprint.iacr.org/2022/1469)
+8 - *Supersingular Curves You Can Trust*, joint work with A. Basso, G. Codogni, D. Connolly, L. De Feo, G. M. Lido, T. Morrison, L. Panny, S. Patranabis, B. Wesolowski [Eprint](https://eprint.iacr.org/2022/1469)
 
 7 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
