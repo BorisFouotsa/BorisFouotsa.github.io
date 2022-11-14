@@ -31,7 +31,7 @@ order: 2
 **August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.
 
 ### Teaching 
-**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer. 
+**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.
 
 ### Student tutoring
