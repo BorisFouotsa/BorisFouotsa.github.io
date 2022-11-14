@@ -36,7 +36,7 @@ order: 2
 
 ### Student tutoring
 
-**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.
+**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.\
 **July 2021 - Now:** Mayeukeu Aubin, PhD student in Isogeny-based Cryptography, University of Dschang, Cameroon.
 
 ### Course tutoring
