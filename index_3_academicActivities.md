@@ -10,7 +10,7 @@ order: 2
 
 ### Reviewing services
 
-**Conferences :** Eurocrypt 2023, IMACC 2021, Inscrypt 2021, PQCrypto 2021, PKC 2021, RNTA 5th mini symposium  2019 ("Scriba" editor).
+**Conferences :** PKC 2023, Eurocrypt 2023, IMACC 2021, Inscrypt 2021, PQCrypto 2021, PKC 2021, RNTA 5th mini symposium  2019 ("Scriba" editor).
 
 **Journals :** 
 - IEEE Access journal; 
@@ -30,9 +30,13 @@ order: 2
 **March 2020 - July 2020:** Research visit at the University of Birmingham's School of Computer Science, working with Pr. Christophe Petit.\
 **August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.
 
+### Teaching 
+**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer. 
+**2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.
+
 ### Student tutoring
 
-**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.\
+**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.
 **July 2021 - Now:** Mayeukeu Aubin, PhD student in Isogeny-based Cryptography, University of Dschang, Cameroon.
 
 ### Course tutoring
