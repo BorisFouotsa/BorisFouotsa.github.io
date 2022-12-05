@@ -47,7 +47,7 @@ order: 2
 ### Talks 
 
 **December 2022**: *On the countermeasures to the higher genus torsion point attacks on SIDH*, Séminaire de Cryptographie de Rennes, IRMAR, Universite de Rennes. [Slides](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/IRMAR_Dec_2022-2.pdf)\
-**November 2022**: *Torsion point images in SIDH: from savior to killer*,  Isogeny club presentation.\
+**November 2022**: *Torsion point images in SIDH: from savior to killer*,  Isogeny club presentation. [Slides](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/Isogeny_club_2022_Boris.pdf)\
 **September 2022**: *Masking SIDH: where do we stand?*,  Leuven isogeny days, September 21st-23rd 2022.\
 **July 2022**: *A New Adaptive Attack on SIDH*,  IBM Zurich.\
 **March 2022**: *A New Adaptive Attack on SIDH*,  CT-RSA 2022.\
