@@ -27,7 +27,7 @@ University of Roma Tre (Italy), under the supervision of Professor [Christophe P
 #### Contact
 Office: INF 235 (Bâtiment INF)\
 Address: Station 14, CH-1015 Lausanne\
-Email: tako.fouotsa@epfl.ch
+Email: tako dot fouotsa at epfl dot ch
 
 
 
