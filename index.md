@@ -31,7 +31,6 @@ Email: tako dot fouotsa at epfl dot ch
 
 
 
-#### My various profiles !! https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/mastodon.jpg
-pictures/mastodon.jpg https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/b3a222ec3caecec82211e747a8f08bcc4ed0189b/pictures/mastodon.jpg
+#### My various profiles !!
 
 [![scholar](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/scholar.png?raw=true)](https://scholar.google.com/citations?hl=en&user=BY8zt_QAAAAJ)..................[![dblp](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/dblp.png?raw=true)](https://dblp.org/pid/289/2242.html)..................[![twitter](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/twitter.png?raw=true)](https://twitter.com/FouotsaB)..................[![mastodon](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/mastodon.jpg?raw=true)](https://ioc.exchange/@FouotsaB#)..................[![researchgate](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/researchgate.png?raw=true)](https://www.researchgate.net/profile/Tako-Boris-Fouotsa)..................[![linkedin](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/linkedin.jpg?raw=true)](https://www.linkedin.com/in/tako-boris-fouotsa-799737118/)..................[![orcid](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/ORCID.png?raw=true)](https://orcid.org/0000-0003-1821-8406)
