@@ -12,7 +12,7 @@ order: 3
 [AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco, \
 [Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21 2022, Marina di San Gregorio, Patù (Lecce), Italy, \
 [CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz), \
-Asiacrypt 2021, \
+Asiacrypt 2021,\
 Eurocrypt 2021,\
 Crypto 2021,\
 PQCrypto 2021,\
@@ -55,7 +55,6 @@ CIMPA School  Kinshasa May 2018.
 
 - **July 2021** Member of the early stage researcher organising committee of EMA  (Ecole de Mathematiques Africaine) School Dschang, University of Dschang.
 - **August 2020**: Co-initiator (with Pr. Emmanuel Fouotsa of the University of Bamenda) of the MaC (Mathematics and Cryptology) Seminars in 2020.
-These are online seminars held by Cameroonian (professionals and early stage)  researchers  working on Cryptography and related topics. 
+These are online seminars held by Cameroonian (professionals and early stage)  researchers  working on Cryptography and related topics.
 We are currently preparing a [web webpage](https://sites.google.com/view/macseminars/about) for these seminars.
 - **July 2018**  Member of the early stage researcher organising committee of EMA  (Ecole de Mathematiques Africaine) School Yaounde, University of Yaounde I.
-
