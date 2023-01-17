@@ -21,8 +21,8 @@ University of Roma Tre (Italy), under the supervision of Professor [Christophe P
 
 #### Research interest
 
-*Isogeny-Based Cryptography*: Cryptanalysis and Design.
-*The Integer Factorisation Problem*: Cryptanalysis of RSA.
+**Isogeny-Based Cryptography**: Cryptanalysis and Design.\
+**The Integer Factorisation Problem**: Cryptanalysis of RSA.
 
 
 #### Contact
