@@ -9,9 +9,14 @@ order: 1
 
 
 ### Eprints
+
+#### 2023
+
 10 - *SCALLOP: scaling the CSI-FiSh*, joint work with L. De Feo, P. Kutas, A. Leroux, S.-P. Merz, L. Panny and B. Wesolowski. [Eprint](https://eprint.iacr.org/2023/058)
 
 9 - *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, joint work with T. Moriya and C. Petit. [Eprint](https://eprint.iacr.org/2023/013)
+
+#### 2022
 
 8 - *Supersingular Curves You Can Trust*, joint work with A. Basso, G. Codogni, D. Connolly, L. De Feo, G. M. Lido, T. Morrison, L. Panny, S. Patranabis, B. Wesolowski. [Eprint](https://eprint.iacr.org/2022/1469)
 
@@ -19,11 +24,16 @@ order: 1
 
 
 ### Published  
+
+#### 2022
+
 6 - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. Published at CFAIL 2022.  [Eprint](https://eprint.iacr.org/2022/518)
 
 5 - *On the Isogeny Problem with Torsion Points*, joint work with Péter Kutas, Simon-Philipp Merz and Yan Bo Ti. Published at PKC 2022, Best Paper Award (Invited to the Journal of Cryptology). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97121-2_6) [Eprint](https://eprint.iacr.org/2021/153)
 
 4 - *A New Adaptive attack on SIDH*. This is a joint work with Christophe Petit. Published at CT-RSA 2022. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-95312-6_14)  [Eprint](https://eprint.iacr.org/2021/1322).
+
+#### 2021
 
 3 - *SETA: Supersingular Encryption from Torsion point Attacks*, joint work with Luca De Feo, Cyprien Delpech de Saint-Guilhem, Antonin Leroux, Péter Kutas, Christophe Petit, Javier Silva, Benjamin Wesolowski. Published at ASIACRYPT 2021. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-92068-5_9)  [Eprint](https://eprint.iacr.org/2019/1291).
 
