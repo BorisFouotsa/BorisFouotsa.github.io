@@ -12,18 +12,20 @@ order: 1
 
 #### 2023
 
-10 - *SCALLOP: scaling the CSI-FiSh*, joint work with L. De Feo, P. Kutas, A. Leroux, S.-P. Merz, L. Panny and B. Wesolowski. [Eprint](https://eprint.iacr.org/2023/058)
-
-9 - *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, joint work with T. Moriya and C. Petit. [Eprint](https://eprint.iacr.org/2023/013)
+10 - *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, joint work with T. Moriya and C. Petit. [Eprint](https://eprint.iacr.org/2023/013)
 
 #### 2022
 
-8 - *Supersingular Curves You Can Trust*, joint work with A. Basso, G. Codogni, D. Connolly, L. De Feo, G. M. Lido, T. Morrison, L. Panny, S. Patranabis, B. Wesolowski. [Eprint](https://eprint.iacr.org/2022/1469)
+9 - *Supersingular Curves You Can Trust*, joint work with A. Basso, G. Codogni, D. Connolly, L. De Feo, G. M. Lido, T. Morrison, L. Panny, S. Patranabis, B. Wesolowski. [Eprint](https://eprint.iacr.org/2022/1469)
 
-7 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
+8 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
 ### Published  
+
+#### 2023
+
+7 - *SCALLOP: scaling the CSI-FiSh*, joint work with L. De Feo, P. Kutas, A. Leroux, S.-P. Merz, L. Panny and B. Wesolowski. To appear at PKC 2023. [Eprint](https://eprint.iacr.org/2023/058)
 
 #### 2022
 
