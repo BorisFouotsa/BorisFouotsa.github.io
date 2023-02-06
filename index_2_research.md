@@ -4,9 +4,6 @@ title: Research work
 order: 1
 ---
 
-###  Latest news
-0- *No News, Good news, ... :smiley:*
-
 
 ### Eprints
 
