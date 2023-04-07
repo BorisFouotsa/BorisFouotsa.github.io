@@ -60,6 +60,4 @@ order: 2
 **August 2020**: *An overview of SIDH*, MaC Seminars, Cameroon.\
 **August 2020**: *An overview of CSIDH*, MaC Seminars, Cameroon.\
 **December 2019**: *An introduction to Isogeny-Based Cryptography*, Mathematic PhD seminars, University of Roma Tre.\
-**July 2019**: *Dirichlet's Units Theorem*, CIMPA School, African Institute for Mathematical Science (AIMS) Limbe.\
-**July 2018**: *Quantum Computing: Teleportation and Super dense coding*, EMA School Yaounde, University of Yaounde I.\
-**August 2017**: *Le  Cryptosysteme d'Alexander Rostovtsev et Anton Stolbunov*, 21st Workshop on Algebra and Logic (AAL 21) Yaounde, University of Yaounde I.
+**July 2019**: *Dirichlet's Units Theorem*, CIMPA School, African Institute for Mathematical Science (AIMS) Limbe.
