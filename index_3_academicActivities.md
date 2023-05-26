@@ -34,10 +34,19 @@ order: 2
 **2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.
 
-### Student tutoring
+### PhD Student tutoring
 
-**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.\
-**July 2021 - Now:** Mayeukeu Aubin, PhD student in Isogeny-based Cryptography, University of Dschang, Cameroon.
+**July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.
+
+### Master thesis supervision
+
+**Spring 2023:** Vincent gali Ehba, AIMS Cameroon, _The Elliptic Curve factorisation Method_.
+
+### Semester project supervision
+
+**Spring 2023:** Alessandro Colombo, EPFL, _Revisiting the ECM_.
+**Spring 2023:** Malo Ranzetti, EPFL, _Implementing Countermeasures to SIDH attacks_.
+
 
 ### Course tutoring
 
