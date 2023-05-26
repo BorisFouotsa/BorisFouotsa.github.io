@@ -13,7 +13,7 @@ order: 2
 **Conferences :** C2SI-2023,  PKC 2023, Eurocrypt 2023, IMACC 2021, Inscrypt 2021, PQCrypto 2021, PKC 2021, RNTA 5th mini symposium  2019 ("Scriba" editor).
 
 **Journals :**
-- IEEE Access journal;\
+- IEEE Access journal;
 - IET Information Security journal (several times);
 
 
