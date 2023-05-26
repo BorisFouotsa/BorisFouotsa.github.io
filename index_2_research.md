@@ -4,6 +4,9 @@ title: Research work
 order: 1
 ---
 
+### Ongoing work
+
+- *Factoring integers using supersingular and anomalous curves*, Tako Boris Fouotsa.
 
 ### Eprints
 
