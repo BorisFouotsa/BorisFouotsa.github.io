@@ -10,7 +10,7 @@ order: 1
 
 ### Eprints
 
-#### 2022
+- *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso.  [Eprint](https://eprint.iacr.org/2023/791)
 
 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
