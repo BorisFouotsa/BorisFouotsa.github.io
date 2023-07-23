@@ -9,7 +9,7 @@ order: 3
 
 #### Conferences
 [SIAM AG 2023](https://www.siam.org/conferences/cm/conference/ag23), 10-14 July, Eindhoven, The Netherlands. \
-[Eurocrypt 2024](https://eurocrypt.iacr.org/2023/), 23-27 April 2023, Lyon, France.\
+[Eurocrypt 2023](https://eurocrypt.iacr.org/2023/), 23-27 April 2023, Lyon, France.\
 [AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco. \
 [Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21 2022, Marina di San Gregorio, Patù (Lecce), Italy. \
 [CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz). \
