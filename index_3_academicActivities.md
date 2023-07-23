@@ -4,6 +4,10 @@ title: Academic activities
 order: 2
 ---
 
+### General Chair
+
+- AFRICACRYPT 2024, Douala Cameroon, 10-12 July 2024.
+
 ### Program committee
 
 - [ANTS 2022](https://people.maths.bris.ac.uk/~jb12407/ANTS-XV/index.html), University of Bristol, August 8-12 2022.
@@ -44,9 +48,16 @@ order: 2
 
 ### Semester project supervision
 
-**Spring 2023:** Alessandro Colombo, EPFL, _Revisiting the ECM_.\
-**Spring 2023:** Malo Ranzetti, EPFL, _Implementing Countermeasures to SIDH attacks_.
+**Spring 2023:** Alessandro Colombo, EPFL. _Revisiting the ECM_.\
+**Spring 2023:** Malo Ranzetti, EPFL. _Implementing Countermeasures to SIDH attacks_.
 
+
+### Summer interns at EPFL
+
+**Summer 2023:** Amer Elsheikh, The American University in Cairo,
+Egypt. _An Elliptic Curve Based Symmetric Encryption scheme_.\
+**Summer 2023:** Mohammadreza Motabar, University of Tehran,
+Iran. _On the Number Field Sieve Factoring Method_.
 
 ### Course tutoring
 
