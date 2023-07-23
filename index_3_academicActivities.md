@@ -4,6 +4,11 @@ title: Academic activities
 order: 2
 ---
 
+
+### Steering committee
+
+- Cybersecurity and cryptology Master and PhD program, University of Bamenda, Cameroon.
+  
 ### General Chair
 
 - AFRICACRYPT 2024, Douala Cameroon, 10-12 July 2024.
