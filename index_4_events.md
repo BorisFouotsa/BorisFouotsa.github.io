@@ -8,7 +8,8 @@ order: 3
 ### Attended events
 
 #### Conferences
-
+[SIAM AG 2023](https://www.siam.org/conferences/cm/conference/ag23), 10-14 July, Eindhoven, The Netherlands.\
+[Eurocrypt 2024](https://eurocrypt.iacr.org/2023/), 23-27 April 2023, Lyon, France.\ 
 [AfricaCrypt 2022](https://africacrypt2022.cs.ru.nl), July 18-20 2022,  Fez, Morocco, \
 [Leuca210](http://www.rnta.eu/CLDRMW210/), May 16-21 2022, Marina di San Gregorio, Patù (Lecce), Italy, \
 [CT-RSA 2022](https://ct-rsa-2022.auckland.ac.nz), \
@@ -32,7 +33,7 @@ RNTA 5th Mini Symposium 2019.
 
 #### Workshops
 
-[Summer School in post-quantum cryptography](http://pqcsummerschool2022.inf.elte.hu), August 1-5 2022, Budapest, Hungary, \
+Leuven Isogeny Days 3, 21-23 September 2022, Leuven, Belgium. 
 [An ordinary day in supersingularland](https://defeo.lu/2022-isogeny-day/), July 07 2022,  IBM Research, Zurich, Switzerland,\
 Banff Isogeny workshop (August 22 to August 27, 2021) on : [Supersingular Isogeny Graphs in Cryptography](https://www.birs.ca/events/2021/5-day-workshops/21w5229),\
 SAC 2020 workshop,\
@@ -43,6 +44,7 @@ ANTS-XIV's workshop,\
 
 #### Schools
 
+[Summer School in post-quantum cryptography](http://pqcsummerschool2022.inf.elte.hu), August 1-5 2022, Budapest, Hungary, \
 [Digital CISPA summer school](https://cispa.de/en/news-and-events/events-archive/2021/digital-cispa-summer-school-2021) on *Coding Techniques & Advanced Post-Quantum Cryptography*.\
 Bristol's Isogeny-based cryptography [school](https://isogenyschool2020.co.uk) (Online July-Sept 2021). \
 EMA and CRAG-10 Dschang 2021 (19th - 30th July 2021). \
