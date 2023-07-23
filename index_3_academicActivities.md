@@ -30,7 +30,7 @@ order: 2
 
 **Journals :**
 - IEEE Access journal;
-- IET Information Security journal (several times);
+- IET Information Security journal;
 - Designs, Codes and Cryptography;
 - Mathematical Cryptology.
 
