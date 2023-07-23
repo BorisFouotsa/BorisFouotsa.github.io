@@ -19,11 +19,20 @@ order: 2
 
 ### Reviewing services
 
-**Conferences :** C2SI-2023,  PKC 2023, Eurocrypt 2023, IMACC 2021, Inscrypt 2021, PQCrypto 2021, PKC 2021, RNTA 5th mini symposium  2019 ("Scriba" editor).
+**Conferences :** 
+- Eurocrypt 2023,
+- PKC 2021, 2023,
+- C2SI 2023, 
+- PQCrypto 2021,
+- IMACC 2021,
+- Inscrypt 2021,
+- RNTA 5th mini symposium  2019 ("Scriba" editor).
 
 **Journals :**
 - IEEE Access journal;
 - IET Information Security journal (several times);
+- Designs, Codes and Cryptography;
+- Mathematical Cryptology.
 
 
 ### Short visits
