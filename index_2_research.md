@@ -10,14 +10,14 @@ order: 1
 
 ### Eprints
 
-- *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso.  [Eprint](https://eprint.iacr.org/2023/791)
-
 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
 ### Published  
 
 #### 2023
+
+- *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso.  [Eprint](https://eprint.iacr.org/2023/791) (Conditionally) Accepted at SIACRYPT 2023
 
 - *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, joint work with T. Moriya and C. Petit.  To appear at EUROCRYPT 2023. [Eprint](https://eprint.iacr.org/2023/013)
 
