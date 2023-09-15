@@ -17,7 +17,7 @@ order: 1
 
 #### 2023
 
-- *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso.  [Eprint](https://eprint.iacr.org/2023/791) Accepted at ASIACRYPT 2023
+- *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso. To appear at ASIACRYPT 2023.   [Eprint](https://eprint.iacr.org/2023/791)
 
 - *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, joint work with T. Moriya and C. Petit.  To appear at EUROCRYPT 2023. [Eprint](https://eprint.iacr.org/2023/013)
 
