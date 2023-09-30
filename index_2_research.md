@@ -15,6 +15,9 @@ order: 1
 
 ### Published  
 
+#### 2024
+- *Exploring SIDH-based Signature Parameters*, joint work with A. Basso, M. Chen, P. Kutas, A. Laval,  L. Marco, G. T. Saah. Accepted at ACNS 2024. [Eprint](https://eprint.iacr.org/2023/791). 
+
 #### 2023
 
 - *New SIDH Countermeasures for a More Efficient Key Exchange*, joint work with Andrea Basso. To appear at ASIACRYPT 2023.   [Eprint](https://eprint.iacr.org/2023/791)
