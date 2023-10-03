@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-#### Hello !  Salut !  Hallo !  Ciao ! Salam ! Namaste !    你好 !    こんにちは !    Привет !    안녕하세요 !
+#### Hello!   Salut!   Hallo!   Ciao!  Salam!   Namaste!   你好!   こんにちは!   Привет!   안녕하세요!
 
 ![alt text](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Boris.jpg?raw=true)
 
