@@ -11,7 +11,7 @@ order: 2
   
 ### General Chair
 
-- AFRICACRYPT 2024, Douala Cameroon, 10-12 July 2024.
+- [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 
 ### Program committee
 
