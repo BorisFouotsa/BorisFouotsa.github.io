@@ -5,8 +5,7 @@ order: 1
 ---
 
 
-#### Hello!   Salut!   Hallo!   Ciao!  Salam!   Namaste!   你好!   こんにちは!   Привет!   안녕하세요!
-
+#### Hello! Salut! Hallo! Grüezi!  Ciao!  Salam!  Namaste!  你好!  こんにちは!  Привет!  안녕하세요!
 
 #### Welcome to my webpage !!
 
