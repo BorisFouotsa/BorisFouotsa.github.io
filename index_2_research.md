@@ -16,7 +16,7 @@ order: 1
 ### Published  
 
 #### 2024
-- *Exploring SIDH-based Signature Parameters*, joint work with A. Basso, M. Chen, P. Kutas, A. Laval,  L. Marco, G. T. Saah. Accepted at ACNS 2024. [Eprint](https://eprint.iacr.org/2023/791). 
+- *Exploring SIDH-based Signature Parameters*, joint work with A. Basso, M. Chen, P. Kutas, A. Laval,  L. Marco, G. T. Saah. Accepted at ACNS 2024. 
 
 #### 2023
 
