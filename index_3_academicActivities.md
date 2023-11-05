@@ -15,12 +15,14 @@ order: 2
 
 ### Program committee
 
+- [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
+- [ACNS 2024](https://wp.nyu.edu/acns2024/), Abu Dhabi UAE, 5-8 March, 2024.
 - [ANTS 2022](https://people.maths.bris.ac.uk/~jb12407/ANTS-XV/index.html), University of Bristol, August 8-12 2022.
 
 ### Reviewing services
 
 **Conferences :** 
-- Eurocrypt 2023,
+- Eurocrypt 2023, 2024
 - PKC 2021, 2023,
 - C2SI 2023, 
 - PQCrypto 2021,
