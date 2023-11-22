@@ -53,7 +53,7 @@ order: 2
 
 ### Teaching
 **2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
-**2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.
+**2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.\
 **2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.
 
 ### PhD Student tutoring
@@ -62,7 +62,7 @@ order: 2
 
 ### Master thesis supervision
 
-**Fall 2023:** Max Duparc, EPFL, _Updatable Public Key Encryption from Isogenies_.
+**Fall 2023:** Max Duparc, EPFL, _Updatable Public Key Encryption from Isogenies_.\
 **Spring 2023:** Vincent gali Ehba, AIMS Cameroon, _The Elliptic Curve factorisation Method_.
 
 ### Semester project supervision
