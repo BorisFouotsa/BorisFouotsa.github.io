@@ -54,6 +54,7 @@ order: 2
 ### Teaching
 **2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.
+**2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.
 
 ### PhD Student tutoring
 
