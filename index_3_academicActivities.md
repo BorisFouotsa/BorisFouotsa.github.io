@@ -61,6 +61,7 @@ order: 2
 
 ### Master thesis supervision
 
+**Fall 2023:** Max Duparc, EPFL, _Updatable Public Key Encryption from Isogenies_.
 **Spring 2023:** Vincent gali Ehba, AIMS Cameroon, _The Elliptic Curve factorisation Method_.
 
 ### Semester project supervision
