@@ -33,7 +33,8 @@ RNTA 5th Mini Symposium 2019.
 
 #### Workshops
 
-Leuven Isogeny Days 3, 21-23 September 2022, Leuven, Belgium. 
+Leuven Isogeny Days 4, 11-13 October 2023, Leuven, Belgium,\ 
+Leuven Isogeny Days 3, 21-23 September 2022, Leuven, Belgium,\
 [An ordinary day in supersingularland](https://defeo.lu/2022-isogeny-day/), July 07 2022,  IBM Research, Zurich, Switzerland,\
 Banff Isogeny workshop (August 22 to August 27, 2021) on : [Supersingular Isogeny Graphs in Cryptography](https://www.birs.ca/events/2021/5-day-workshops/21w5229),\
 SAC 2020 workshop,\
