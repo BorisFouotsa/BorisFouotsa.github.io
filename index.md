@@ -14,7 +14,8 @@ a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](
 
 Previously, I was a PhD student at the
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),\
-University of Roma Tre (Italy), under the supervision of Professor [Christophe Petit](http://homepages.ulb.ac.be/~chripeti/index.html) and Professor [Fabrizio Barroero](https://sites.google.com/site/barroerofabrizio/Home). I was also short term research assistant at the University of Birmingham's School of Computer Science during February 2022, under the supervision of Christophe Petit.
+University of Roma Tre (Italy), under the supervision of Professor [Christophe Petit](http://homepages.ulb.ac.be/~chripeti/index.html) and Professor [Fabrizio Barroero](https://sites.google.com/site/barroerofabrizio/Home). 
+I was also short term research assistant at the University of Birmingham's School of Computer Science during February 2022, under the supervision of Christophe Petit.
 
 #### Research interest
 
