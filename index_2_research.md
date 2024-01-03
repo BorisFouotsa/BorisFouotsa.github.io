@@ -10,6 +10,7 @@ order: 1
 
 ### Eprints
 
+- *A note on the prime in SQISignHD*, Tako Boris Fouotsa. [Eprint](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
 - *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
