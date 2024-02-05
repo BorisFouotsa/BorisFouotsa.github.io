@@ -17,6 +17,9 @@ order: 1
 ### Published  
 
 #### 2024
+
+- *Modular Isogeny Problems*, joint work with L. De Feo and L. Panny. Accepted at EUROCRYPT 2024.
+  
 - *Exploring SIDH-based Signature Parameters*, joint work with A. Basso, M. Chen, P. Kutas, A. Laval,  L. Marco, G. T. Saah. Accepted at ACNS 2024. [Eprint](https://eprint.iacr.org/2023/1906)
 
 #### 2023
