@@ -15,6 +15,7 @@ order: 2
 
 ### Program committee
 
+- [CIFRIS 2024](https://www.decifris.it/cifris24/homeCifris24), Rome Italy, 25-27 September 2024.
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 - [ACNS 2024](https://wp.nyu.edu/acns2024/), Abu Dhabi UAE, 5-8 March, 2024.
 - [ANTS 2022](https://people.maths.bris.ac.uk/~jb12407/ANTS-XV/index.html), University of Bristol, August 8-12 2022.
