@@ -10,12 +10,13 @@ order: 1
 
 ### Eprints
 
-- *SILBE: an Updatable Public Key Encryption Scheme from Lollipop Attacks*, joint work with M. Duparc and S. Vaudenay.  [Eprint](https://eprint.iacr.org/2024/400)
-- *A note on the prime in SQISignHD*, Tako Boris Fouotsa. [Eprint](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
-- *SIDH with masked torsion point images*, Tako Boris Fouotsa.  [Eprint](https://eprint.iacr.org/2022/1054)
+- *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024.
+- *SILBE: an Updatable Public Key Encryption Scheme from Lollipop Attacks*, joint work with M. Duparc and S. Vaudenay, 2024.  [Eprint](https://eprint.iacr.org/2024/400)
+- *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Eprint](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
+- *SIDH with masked torsion point images*, Tako Boris Fouotsa, 2022.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
-### Published  
+### Published
 
 #### 2024
 
