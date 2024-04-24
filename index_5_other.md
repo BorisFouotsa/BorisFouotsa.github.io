@@ -13,7 +13,7 @@ order: 2
 ### Hobbies
 
 - Cycling
-- Football
+- Football (Madridista!)
 - Music and Dance
 - Video games (FIFA and Pro Evolution Soccer)
 - Photography
