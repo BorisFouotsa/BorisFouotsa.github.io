@@ -10,9 +10,12 @@ order: 1
 
 ### Eprints
 
-- *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024.
+- *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024. [Eprint](https://eprint.iacr.org/2024/531)
+  
 - *SILBE: an Updatable Public Key Encryption Scheme from Lollipop Attacks*, joint work with M. Duparc and S. Vaudenay, 2024.  [Eprint](https://eprint.iacr.org/2024/400)
+  
 - *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Eprint](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
+  
 - *SIDH with masked torsion point images*, Tako Boris Fouotsa, 2022.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
@@ -20,7 +23,7 @@ order: 1
 
 #### 2024
 
-- *Modular Isogeny Problems*, joint work with L. De Feo and L. Panny. Accepted at EUROCRYPT 2024.
+- *Modular Isogeny Problems*, joint work with L. De Feo and L. Panny. Accepted at EUROCRYPT 2024. [Eprint](https://eprint.iacr.org/2024/459)
   
 - *Exploring SIDH-based Signature Parameters*, joint work with A. Basso, M. Chen, P. Kutas, A. Laval,  L. Marco, G. T. Saah. Accepted at ACNS 2024. [Eprint](https://eprint.iacr.org/2023/1906)
 
