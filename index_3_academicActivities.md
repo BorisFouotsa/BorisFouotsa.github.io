@@ -32,10 +32,11 @@ order: 2
 - RNTA 5th mini symposium  2019 ("Scriba" editor).
 
 **Journals :**
-- IEEE Access journal;
-- IET Information Security journal;
+- Journal of Cryptology;
 - Designs, Codes and Cryptography;
 - Mathematical Cryptology.
+- IEEE Access journal;
+- IET Information Security journal;
 
 
 ### Short visits
@@ -84,8 +85,11 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **May 2019 - July 2019:** Tutor (remote), Nepal Algebra Project, Tribhuvan University Nepal.\
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
-### Talks
+### Selected Talks
 
+**April 2024**: *Recovering isogenies from a single torsion point image, and more*, ACCESS: Algebraic Coding and Cryptography Seminar Series.\
+**Dec 2023**: *Isogeny Representations and their Applications to Cryptography*, University of Neuchatel, Neuchatel, Switzerlan.\
+**Oct 2023**: *A look at SQISignHD*, Leuven Isogeny Days 4, KU Leuven, Belgium.\
 **July 2023**: *At the evening of the SIDH attacks*, SIAM AG 2023, 10-14 July, Eindhoven, The Netherlands.\
 **May 2023**: *Beyond the SIDH Countermeasures*, Séminaire de Cryptographie, LFANT, Bordeaux. \
 **April 2023**: *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, Eurocrypt 2024, Lyon, France.\
@@ -104,5 +108,3 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **August 2020**: *An overview of CSIDH*, MaC Seminars, Cameroon.\
 **December 2019**: *An introduction to Isogeny-Based Cryptography*, Mathematic PhD seminars, University of Roma Tre.\
 **July 2019**: *Dirichlet's Units Theorem*, CIMPA School, African Institute for Mathematical Science (AIMS) Limbe.\
-**July 2018**: *Quantum Computing: Teleportation and Super dense coding*, EMA School Yaounde, University of Yaounde I.\
-**August 2017**: *Le  Cryptosysteme d'Alexander Rostovtsev et Anton Stolbunov*, 21st Workshop on Algebra and Logic (AAL 21) Yaounde, University of Yaounde I.
