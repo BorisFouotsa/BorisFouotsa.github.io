@@ -58,7 +58,7 @@ order: 2
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.\
 **2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.
 
-### PhD Student tutoring
+### PhD Student Mentoring
 
 **July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.
 
