@@ -107,4 +107,4 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **August 2020**: *An overview of SIDH*, MaC Seminars, Cameroon.\
 **August 2020**: *An overview of CSIDH*, MaC Seminars, Cameroon.\
 **December 2019**: *An introduction to Isogeny-Based Cryptography*, Mathematic PhD seminars, University of Roma Tre.\
-**July 2019**: *Dirichlet's Units Theorem*, CIMPA School, African Institute for Mathematical Science (AIMS) Limbe.\
+**July 2019**: *Dirichlet's Units Theorem*, CIMPA School, African Institute for Mathematical Science (AIMS) Limbe.
