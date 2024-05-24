@@ -25,7 +25,7 @@ order: 1
 
 #### 2024
 
-- - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. The Computer Journal 2024.  [Eprint](https://eprint.iacr.org/2022/518)
+- *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. The Computer Journal 2024.  [Eprint](https://eprint.iacr.org/2022/518)
 
 - *Modular Isogeny Problems*, joint work with L. De Feo and L. Panny. Accepted at EUROCRYPT 2024. [Eprint](https://eprint.iacr.org/2024/459)
   
