@@ -10,6 +10,8 @@ order: 1
 
 ### Eprints
 
+- *SQIPrime: A dimension 2 variant of SQISignHD with non-smooth challenge isogenies*, joint work with M. Duparc, 2024. [Eprint](https://eprint.iacr.org/2024/773)
+  
 - *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024. [Eprint](https://eprint.iacr.org/2024/531)
   
 - *SILBE: an Updatable Public Key Encryption Scheme from Lollipop Attacks*, joint work with M. Duparc and S. Vaudenay, 2024.  [Eprint](https://eprint.iacr.org/2024/400)
@@ -22,6 +24,8 @@ order: 1
 ### Published
 
 #### 2024
+
+- - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. The Computer Journal 2024.  [Eprint](https://eprint.iacr.org/2022/518)
 
 - *Modular Isogeny Problems*, joint work with L. De Feo and L. Panny. Accepted at EUROCRYPT 2024. [Eprint](https://eprint.iacr.org/2024/459)
   
