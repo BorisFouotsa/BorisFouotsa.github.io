@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Africacrypt 2024
+title: Africacrypt'24
 order: 5
 ---
 
