@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research work
+title: Research
 order: 1
 ---
 
