@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Africacrypt 2024 Proceedings
+title: Africacrypt 2024
 order: 6
 ---
 
