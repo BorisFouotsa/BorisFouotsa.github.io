@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other
-order: 2
+order: 4
 ---
 
 ### Communities membership
