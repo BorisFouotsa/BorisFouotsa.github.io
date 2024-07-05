@@ -11,3 +11,11 @@ github_username: BorisFouotsa
 # Build settings
 markdown: kramdown
 theme: minima
+
+nav:
+  - Home: index.md
+  - Research work: index_2_research.md
+  - Academic activities: index_3_academicActivities.md
+  - Events: index_4_events.md
+  - Other: index_5_other.md
+  - Africacrypt 2024: index111.md
