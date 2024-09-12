@@ -9,8 +9,6 @@ order: 1
 - *Factoring integers using supersingular and anomalous curves*, Tako Boris Fouotsa.
 
 ### Eprints
-
-- *SQIPrime: A dimension 2 variant of SQISignHD with non-smooth challenge isogenies*, joint work with M. Duparc, 2024. [Eprint](https://eprint.iacr.org/2024/773)
   
 - *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024. [Eprint](https://eprint.iacr.org/2024/531)
   
@@ -23,6 +21,10 @@ order: 1
 
 #### 2024
 
+- *Attacking trapdoors from matrix products*, joint work with T. Decru, P. Frixons, V. Gilchrist and C. Petit, 2024. Accepted for the IACR Communications in Cryptology, Volume 1, Issue 3. [Eprint](https://eprint.iacr.org/2024/1332)
+  
+- *SQIPrime: A dimension 2 variant of SQISignHD with non-smooth challenge isogenies*, joint work with M. Duparc, 2024. Accepted at ASIACRYPT 2024. [Eprint](https://eprint.iacr.org/2024/773)
+  
 - *SILBE: an Updatable Public Key Encryption Scheme from Lollipop Attacks*, joint work with M. Duparc and S. Vaudenay, 2024. Accepted at SAC 2024. [Eprint](https://eprint.iacr.org/2024/400)
   
 - *Failling to hash into supersingular isogeny Graphs*, joint work with J. Booher, R. Bowden, J. Doliskani, S. D. Galbraith, S. Kunzweiler, S.-P. Merz, C. Petit, B. Smith, K. E. Stange, Y. B. Ti, C. Vincent, J. F. Voloch, C. Weitk ̈amper, and L. Zobernig. The Computer Journal 2024.  [Eprint](https://eprint.iacr.org/2022/518)
