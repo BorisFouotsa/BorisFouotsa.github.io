@@ -15,7 +15,7 @@ order: 2
 
 ### Program committee
 
-- [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw)),  Taipei Taiwan, 8-10 April 2025.
+- [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw),  Taipei Taiwan, 8-10 April 2025.
 - [CIFRIS 2024](https://www.decifris.it/cifris24/homeCifris24), Rome Italy, 25-27 September 2024.
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 - [ACNS 2024](https://wp.nyu.edu/acns2024/), Abu Dhabi UAE, 5-8 March, 2024.
