@@ -15,6 +15,7 @@ order: 2
 
 ### Program committee
 
+- [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw)),  Taipei Taiwan, 8-10 April 2025.
 - [CIFRIS 2024](https://www.decifris.it/cifris24/homeCifris24), Rome Italy, 25-27 September 2024.
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 - [ACNS 2024](https://wp.nyu.edu/acns2024/), Abu Dhabi UAE, 5-8 March, 2024.
@@ -86,13 +87,14 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
 ### Selected Talks
-
+**Sept 2024**: *SQIprime*, Leuven Isogeny Days 5, KU Leuven, Belgium.\
+**May 2024**: *Isogeny Problems with Level Structure*, Eurocrypt 2024, Zürich, Switzerland. \
 **April 2024**: *Recovering isogenies from a single torsion point image, and more*, ACCESS: Algebraic Coding and Cryptography Seminar Series.\
 **Dec 2023**: *Isogeny Representations and their Applications to Cryptography*, University of Neuchatel, Neuchatel, Switzerlan.\
 **Oct 2023**: *A look at SQISignHD*, Leuven Isogeny Days 4, KU Leuven, Belgium.\
 **July 2023**: *At the evening of the SIDH attacks*, SIAM AG 2023, 10-14 July, Eindhoven, The Netherlands.\
 **May 2023**: *Beyond the SIDH Countermeasures*, Séminaire de Cryptographie, LFANT, Bordeaux. \
-**April 2023**: *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, Eurocrypt 2024, Lyon, France.\
+**April 2023**: *M-SIDH and MD-SIDH: countering SIDH attacks by masking information*, Eurocrypt 2023, Lyon, France.\
 **December 2022**: *On the countermeasures to the higher genus torsion point attacks on SIDH*, Séminaire de Cryptographie de Rennes, IRMAR, Universite de Rennes. [Slides](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/IRMAR_Dec_2022-2.pdf)\
 **November 2022**: *Torsion point images in SIDH: from savior to killer*,  Isogeny club presentation. [Slides](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/Isogeny_club_2022_Boris.pdf)\
 **September 2022**: *Masking SIDH: where do we stand?*,  Leuven isogeny days, September 21st-23rd 2022. [Slides](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/Masking_SIDH_Leuven2022.pdf)\
