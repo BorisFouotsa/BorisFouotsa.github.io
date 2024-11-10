@@ -24,7 +24,7 @@ order: 2
 ### Reviewing services
 
 **Conferences :** 
-- Eurocrypt 2023, 2024,2025
+- Eurocrypt 2023, 2024, 2025
 - PKC 2021, 2023,
 - C2SI 2023, 
 - PQCrypto 2021,
