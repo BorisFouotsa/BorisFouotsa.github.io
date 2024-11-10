@@ -63,7 +63,7 @@ order: 2
 **2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.\
 **08.2023:** Mon premier pas vers la cryptographie, summer school course at Lycée Général Leclerc, Yaoundé Cameroon.
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.\
-**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
+**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.
 
 
 
