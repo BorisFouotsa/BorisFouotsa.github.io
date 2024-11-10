@@ -24,7 +24,7 @@ order: 2
 ### Reviewing services
 
 **Conferences :** 
-- Eurocrypt 2023, 2024
+- Eurocrypt 2023, 2024,2025
 - PKC 2021, 2023,
 - C2SI 2023, 
 - PQCrypto 2021,
@@ -90,7 +90,7 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **Sept 2024**: *SQIprime*, Leuven Isogeny Days 5, KU Leuven, Belgium.\
 **May 2024**: *Isogeny Problems with Level Structure*, Eurocrypt 2024, Zürich, Switzerland. \
 **April 2024**: *Recovering isogenies from a single torsion point image, and more*, ACCESS: Algebraic Coding and Cryptography Seminar Series.\
-**Dec 2023**: *Isogeny Representations and their Applications to Cryptography*, University of Neuchatel, Neuchatel, Switzerlan.\
+**Dec 2023**: *Isogeny Representations and their Applications to Cryptography*, University of Neuchatel, Neuchatel, Switzerland.\
 **Oct 2023**: *A look at SQISignHD*, Leuven Isogeny Days 4, KU Leuven, Belgium.\
 **July 2023**: *At the evening of the SIDH attacks*, SIAM AG 2023, 10-14 July, Eindhoven, The Netherlands.\
 **May 2023**: *Beyond the SIDH Countermeasures*, Séminaire de Cryptographie, LFANT, Bordeaux. \
