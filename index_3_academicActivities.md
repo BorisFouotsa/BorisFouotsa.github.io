@@ -55,9 +55,17 @@ order: 2
 **August 2019 - October 2019:** Research visit at the University of Bamenda, working with Pr. Emmanuel Fouotsa.
 
 ### Teaching
-**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
+**27.01.2025 - 15.02.2025:** Cryptography course at AIMS Cameroon, Teaching Assistant and Substitute Lecturer.\
+**2024/2025:** Post-Quantum Cryptography, Fall 2024, University of Bamenda, online course.\
+**2024/2025:** Cryptography and Security, Fall 2024, IC School, EPFL. Substitute Lecturer.\
+**2023/2024:** Advanced Cryptography, Spring 2024, IC School, EPFL. Substitute Lecturer.\
+**29.01.2024 - 17.02.2024:** Cryptography course at AIMS Cameroon, Teaching Assistant and Substitute Lecturer.\
+**2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.\
+**08.2023:** Mon premier pas vers la cryptographie, summer school course at Lycée Général Leclerc, Yaoundé Cameroon.
 **2022/2023:** Cryptography and Security, Fall 2022,  IC School, EPFL. Substitute Lecturer.\
-**2023/2024:** Cryptography and Security, Fall 2023,  IC School, EPFL. Substitute Lecturer.
+**2021/2022:** Advanced Cryptography, Spring 2022, IC School, EPFL. Substitute Lecturer.\
+
+
 
 ### PhD Student Mentoring
 
