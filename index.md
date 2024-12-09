@@ -7,7 +7,7 @@ order: 1
 
 #### Hello! Salut! Hallo! Grüezi!  Ciao!  Salam!  Namaste!  你好!  こんにちは!  Привет!  안녕하세요!\
 
-![](./pictures/Pic.png) \
+![](./pictures/Pic.jpg) \
 
 #### Welcome to my webpage !!
 
