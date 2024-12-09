@@ -5,9 +5,7 @@ order: 1
 ---
 
 
-#### Hello! Salut! Hallo! Grüezi!  Ciao!  Salam!  Namaste!  你好!  こんにちは!  Привет!  안녕하세요!\
-
-![](./pictures/Pic.jpg)
+#### Hello! Salut! Hallo! Grüezi!  Ciao!  Salam!  Namaste!  你好!  こんにちは!  Привет!  안녕하세요!
 
 <img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Pic.jpg?raw=true" alt="" width="50%" height="50%">
 
