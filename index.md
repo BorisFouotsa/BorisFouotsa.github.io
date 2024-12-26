@@ -11,8 +11,7 @@ order: 1
 
 #### Welcome to my webpage !!
 
-I am Tako Boris Fouotsa,\
-a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).
+I am Tako Boris Fouotsa, a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).
 
 Previously, I was a PhD student at the
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),\
@@ -22,6 +21,7 @@ I was also short term research assistant at the University of Birmingham's Schoo
 #### Research interest
 
 **Isogeny-Based Cryptography**: Cryptanalysis and Design.\
+**CCryptanalysis**: Post-Quantum Cryptanalysis.\
 **The Integer Factorisation Problem**: Cryptanalysis of RSA.
 
 
