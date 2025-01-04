@@ -15,6 +15,7 @@ order: 2
 
 ### Program committee
 
+- [AFRICACRYPT 2025](https://africacrypt2025.sciencesconf.org), Rabat Morocco, 21-23 July 2024.
 - [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw),  Taipei Taiwan, 8-10 April 2025.
 - [CIFRIS 2024](https://www.decifris.it/cifris24/homeCifris24), Rome Italy, 25-27 September 2024.
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
