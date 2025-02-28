@@ -6,7 +6,7 @@ order: 1
 
 ### Projects
 
-- *[SQISign](https://sqisign.org)*, your most compact post-quantum digital signature scheme, which is also competitively efficient since February 2025. 
+- *[SQISign](https://sqisign.org)*, your most compact post-quantum digital signature scheme, which is also competitively efficient (https://pqsort.tii.ae) since February 2025. 
 
 ### Ongoing work
 
