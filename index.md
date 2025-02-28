@@ -23,6 +23,7 @@ I was also short term research assistant at the University of Birmingham's Schoo
 **Isogeny-Based Cryptography**: Cryptanalysis and Design.\
 **[SQISign<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/577bf104.png?raw=true" alt="" width="2%" height="2%">](https://sqisign.org)**: Optimising your favourite post-quantum digital signature scheme.\
 **Cryptanalysis**: Post-Quantum Cryptanalysis.\
+**Applied Cryptography**: Exotic signatures for blockchain and more.\
 **The Integer Factorisation Problem**: Cryptanalysis of RSA.
 
 
