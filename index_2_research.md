@@ -6,7 +6,7 @@ order: 1
 
 ### Projects
 
-- *[SQISign<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/577bf104.png?raw=true" alt="" width="1.5%" height="1.5%">](https://sqisign.org)*, your most compact post-quantum digital signature scheme, which is also competitively efficient (https://pqsort.tii.ae) since February 2025. 
+- *[SQISign<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/577bf104.png?raw=true" alt="" width="2%" height="2%">](https://sqisign.org)*, your most compact post-quantum digital signature scheme, which is also competitively efficient (https://pqsort.tii.ae) since February 2025. 
 
 ### Ongoing work
 
