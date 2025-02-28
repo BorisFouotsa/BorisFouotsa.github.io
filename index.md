@@ -21,7 +21,7 @@ I was also short term research assistant at the University of Birmingham's Schoo
 #### Research interest
 
 **Isogeny-Based Cryptography**: Cryptanalysis and Design.\
-**[SQISign](https://sqisign.org)**: Optimising your favourite post-quantum digital signature scheme.\ 
+**[SQISign](https://sqisign.org)**: Optimising your favourite post-quantum digital signature scheme.\
 **Cryptanalysis**: Post-Quantum Cryptanalysis.\
 **The Integer Factorisation Problem**: Cryptanalysis of RSA.
 
