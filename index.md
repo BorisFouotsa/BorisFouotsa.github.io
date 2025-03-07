@@ -3,8 +3,7 @@ layout: page
 title: Home
 order: 1
 ---
-
-<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Pic.jpg?raw=true" alt="" width="50%" height="50%">
+<!-- <img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Pic.jpg?raw=true" alt="" width="50%" height="50%"> -->
 
 #### Hello!  Salut!  Hallo!  Grüezi!   Ciao!   Salam!   Namaste!   你好!   Привет!
 
