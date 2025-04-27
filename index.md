@@ -3,10 +3,6 @@ layout: page
 title: Home
 order: 1
 ---
-<!-- <img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/Pic.jpg?raw=true" alt="" width="50%" height="50%"> -->
-
-## Open to work: faculty positions and industry roles !! Check out my CV [here](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/TakoBorisFouotsa_CV.pdf?raw=true) and reach out !
-
 
 ### Hello!  Salut!  Hallo!  Grüezi!   Ciao!   Salam!   Namaste!   你好!   Привет!
 
