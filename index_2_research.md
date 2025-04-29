@@ -14,14 +14,16 @@ order: 1
 
 ### Eprints
   
-- *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah, 2024. [Eprint](https://eprint.iacr.org/2024/531)
-  
 - *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Draft](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
   
 - *SIDH with masked torsion point images*, Tako Boris Fouotsa, 2022.  [Eprint](https://eprint.iacr.org/2022/1054)
 
 
 ### Published
+
+#### 2025
+
+- *Avoiding Trusted Setup in Isogeny-based Commitments*, joint work with E. Fouotsa, C. Nkuimi-Jugnia  and  G. Tchoffo Saah. To appear at Designs, Codes and cryptography. [Eprint](https://eprint.iacr.org/2024/531)
 
 #### 2024
 
