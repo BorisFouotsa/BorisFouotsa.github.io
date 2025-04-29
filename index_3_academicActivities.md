@@ -99,7 +99,7 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
 ### Selected Talks
-**Sept 2024**: *La cryptographie à base d'isogénies: tel un phénix, elle renait de ses cendres*, [AFRIMath Seminar](https://www.afrimath.math.cnrs.fr/seminaire/la-cryptographie-base-disogenies-tel-un-phenix-elle-renait-de-ses-cendres), online.\
+**April 2025**: *La cryptographie à base d'isogénies: tel un phénix, elle renait de ses cendres*, [AFRIMath Seminar](https://www.afrimath.math.cnrs.fr/seminaire/la-cryptographie-base-disogenies-tel-un-phenix-elle-renait-de-ses-cendres), online.\
 **Sept 2024**: *SQIprime*, Leuven Isogeny Days 5, KU Leuven, Belgium.\
 **May 2024**: *Isogeny Problems with Level Structure*, Eurocrypt 2024, Zürich, Switzerland. \
 **April 2024**: *Recovering isogenies from a single torsion point image, and more*, ACCESS: Algebraic Coding and Cryptography Seminar Series.\
