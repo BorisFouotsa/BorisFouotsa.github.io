@@ -11,7 +11,7 @@ order: 1
 
 ### Eprints and notes
 
-- *PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies*, P. Dartois, J. K. Eriksen, T. B. Fouotsa, A. Herlédan Le Merdy, R. Invernizzi, D. Robert, R. Rueger, F. Vercauteren, B. Wesolowski. [Eprint](https://eprint.iacr.org/2025/401)
+- *PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies*, P. Dartois, J. K. Eriksen, T. B. Fouotsa, A. Herlédan Le Merdy, R. Invernizzi, D. Robert, R. Rueger, F. Vercauteren, B. Wesolowski, 2025. [Eprint](https://eprint.iacr.org/2025/401)
   
 - *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Draft](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
   
