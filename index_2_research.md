@@ -8,11 +8,10 @@ order: 1
 
 - *[SQISign<img src="https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/pictures/577bf104.png?raw=true" alt="" width="2%" height="2%">](https://sqisign.org)*, your most compact post-quantum digital signature scheme, which is also competitively efficient (https://pqsort.tii.ae) since February 2025. 
 
-### Ongoing work
 
-- *Factoring integers using supersingular and anomalous curves*, Tako Boris Fouotsa.
+### Eprints and notes
 
-### Eprints
+- *PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies*, P. Dartois, J. K. Eriksen, T. B. Fouotsa, A. Herlédan Le Merdy, R. Invernizzi, D. Robert, R. Rueger, F. Vercauteren, B. Wesolowski. [Eprint](https://eprint.iacr.org/2025/401)
   
 - *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Draft](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
   
