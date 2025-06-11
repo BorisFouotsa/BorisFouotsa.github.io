@@ -100,7 +100,7 @@ Iran. _On the Number Field Sieve Factoring Method_.
 
 ### Selected Talks 
 
-**June 2025**: *WaterSQI: SQIing on the sea side*, [Swiss isogeny day #3](https://sites.google.com/view/giornate2025/home), ETH Zurich, Switzerland.\
+**June 2025**: *WaterSQI: SQIing on the sea side*, [Swiss isogeny day #3](https://swissogeny.github.io), ETH Zurich, Switzerland.\
 **June 2025**: *Kani’s lemma and isogeny-based cryptography: a love story*, [Giornate di Geometria Algebrica e Argomenti Correlati XVII](https://sites.google.com/view/giornate2025/home), Hotel Saracen || Università degli Studi di Palermo (2-6 giugno 2025) Italy.\
 **May 2025**: *Who said SQIsign was slow?*, Seminar at the department of Mathematiics and Physics, University of Roma Tre, Italy.\
 **May 2025**: *The renaissance of isogeny group actions: from restricted to effective*, Seminar at the GRACE team, Polytechnique/Inria-Saclay, Palaiseau, France.\
