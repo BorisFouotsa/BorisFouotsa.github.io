@@ -98,7 +98,12 @@ Iran. _On the Number Field Sieve Factoring Method_.
 **May 2019 - July 2019:** Tutor (remote), Nepal Algebra Project, Tribhuvan University Nepal.\
 **June 2019:** Tutor, Summer course on linear Algebra, John Cabot University of Rome.
 
-### Selected Talks
+### Selected Talks 
+
+**June 2025**: *WaterSQI: SQIing on the sea side*, [Swiss isogeny day #3](https://sites.google.com/view/giornate2025/home), ETH Zurich, Switzerland.\
+**June 2025**: *Kani’s lemma and isogeny-based cryptography: a love story*, [Giornate di Geometria Algebrica e Argomenti Correlati XVII](https://sites.google.com/view/giornate2025/home), Hotel Saracen || Università degli Studi di Palermo (2-6 giugno 2025) Italy.\
+**May 2025**: *Who said SQIsign was slow?*, Seminar at the department of Mathematiics and Physics, University of Roma Tre, Italy.\
+**May 2025**: *The renaissance of isogeny group actions: from restricted to effective*, Seminar at the GRACE team, Polytechnique/Inria-Saclay, Palaiseau, France.\
 **April 2025**: *La cryptographie à base d'isogénies: tel un phénix, elle renait de ses cendres*, [AFRIMath Seminar](https://www.afrimath.math.cnrs.fr/seminaire/la-cryptographie-base-disogenies-tel-un-phenix-elle-renait-de-ses-cendres), online.\
 **Sept 2024**: *SQIprime*, Leuven Isogeny Days 5, KU Leuven, Belgium.\
 **May 2024**: *Isogeny Problems with Level Structure*, Eurocrypt 2024, Zürich, Switzerland. \
