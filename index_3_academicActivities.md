@@ -73,10 +73,12 @@ order: 2
 
 ### PhD Student Mentoring
 
+**September 2024 - Now:** Max Duparc, PhD student in Isogeny-based Cryptography, EPFL, Switzerland.\
 **July 2021 - Now:** Tchoffo Saah Gustave, PhD student in Isogeny-based Cryptography, University of Yaounde I, Cameroon.
 
 ### Master thesis supervision
 
+**Spring 2025:** Jean Gabriel Agapka Vigno, AIMS Cameroon, _Class group computation_.\
 **Fall 2023:** Max Duparc, EPFL, _Updatable Public Key Encryption from Isogenies_.\
 **Spring 2023:** Vincent gali Ehba, AIMS Cameroon, _The Elliptic Curve factorisation Method_.
 
@@ -102,7 +104,7 @@ Iran. _On the Number Field Sieve Factoring Method_.
 
 **June 2025**: *WaterSQI: SQIing on the sea side*, [Swiss isogeny day #3](https://swissogeny.github.io), ETH Zurich, Switzerland.\
 **June 2025**: *Kani’s lemma and isogeny-based cryptography: a love story*, [Giornate di Geometria Algebrica e Argomenti Correlati XVII](https://sites.google.com/view/giornate2025/home), Hotel Saracen || Università degli Studi di Palermo (2-6 giugno 2025) Italy.\
-**May 2025**: *Who said SQIsign was slow?*, Seminar at the department of Mathematiics and Physics, University of Roma Tre, Italy.\
+**May 2025**: *Who said SQIsign was slow?*, Seminar at the department of Mathematics and Physics, University of Roma Tre, Italy.\
 **May 2025**: *The renaissance of isogeny group actions: from restricted to effective*, Seminar at the GRACE team, Polytechnique/Inria-Saclay, Palaiseau, France.\
 **April 2025**: *La cryptographie à base d'isogénies: tel un phénix, elle renait de ses cendres*, [AFRIMath Seminar](https://www.afrimath.math.cnrs.fr/seminaire/la-cryptographie-base-disogenies-tel-un-phenix-elle-renait-de-ses-cendres), online.\
 **Sept 2024**: *SQIprime*, Leuven Isogeny Days 5, KU Leuven, Belgium.\
