@@ -13,8 +13,9 @@ order: 2
 
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 
-### Program committee
+### Program committee 
 
+- [PKC 2026](https://pkc.iacr.org/2026/), West Palm Beach, USA, 25-28 May, 2026.
 - [FCiR 2025](https://www.decifris.it/fcir25), Rome, Italy, 1st October, 2025.
 - [AFRICACRYPT 2025](https://africacrypt2025.sciencesconf.org), Rabat Morocco, 21-23 July 2025.
 - [PQCrypto 2025](https://pqcrypto2025.iis.sinica.edu.tw),  Taipei Taiwan, 8-10 April 2025.
