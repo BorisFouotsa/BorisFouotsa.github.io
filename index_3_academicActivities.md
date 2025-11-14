@@ -105,7 +105,7 @@ Iran. _On the Number Field Sieve Factoring Method_.
 ### Selected Talks 
 
 **October 2025**: *PRISMO: A Quaternion Signature for Isogeny Group Actions*, [Swiss Crypto day](https://swisscryptoday.github.io/2025-10/), 31st October,  EPFL Lausanne, Switzerland.\
-**September 2025**: *Isogeny-based cryptography: from attacks to prime time*, [UK Crypto day](https://uk-crypto-day.github.io/2025/09/11/uk-crypto-day/), 11th September, The University of Manchester, UK.\
+**September 2025**: *Isogeny-based cryptography: from attacks to prime time*, [UK Crypto day](https://uk-crypto-day.github.io/2025/09/11/uk-crypto-day/), 11th September, University of Manchester, UK.\
 **June 2025**: *WaterSQI: SQIing on the sea side*, [Swiss isogeny day #3](https://swissogeny.github.io), ETH Zurich, Switzerland.\
 **June 2025**: *Kani’s lemma and isogeny-based cryptography: a love story*, [Giornate di Geometria Algebrica e Argomenti Correlati XVII](https://sites.google.com/view/giornate2025/home), Hotel Saracen || Università degli Studi di Palermo (2-6 giugno 2025) Italy.\
 **May 2025**: *Who said SQIsign was slow?*, Seminar at the department of Mathematics and Physics, University of Roma Tre, Italy.\
