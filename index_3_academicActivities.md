@@ -15,6 +15,7 @@ order: 2
 
 ### Program committee 
 
+- [AFRICACRYPT 2026](https://www.africacrypt2026.tn), Hammamet, Tunisia, July 8-10, 2026.
 - [PKC 2026](https://pkc.iacr.org/2026/), West Palm Beach, USA, 25-28 May, 2026.
 - [FCiR 2025](https://www.decifris.it/fcir25), Rome, Italy, 1st October, 2025.
 - [AFRICACRYPT 2025](https://africacrypt2025.sciencesconf.org), Rabat Morocco, 21-23 July 2025.
@@ -23,11 +24,11 @@ order: 2
 - [AFRICACRYPT 2024](https://www.africacrypt2024.com), Douala Cameroon, 10-12 July 2024.
 - [ACNS 2024](https://wp.nyu.edu/acns2024/), Abu Dhabi UAE, 5-8 March, 2024.
 - [ANTS 2022](https://people.maths.bris.ac.uk/~jb12407/ANTS-XV/index.html), University of Bristol, August 8-12 2022.
-
+https://www.africacrypt2026.tn
 ### Reviewing services
 
 **Conferences :** 
-- Eurocrypt 2023, 2024, 2025,
+- Eurocrypt 2023, 2024, 2025, 2026
 - ESORICS 2025,
 - CANS 2024,
 - PKC 2021, 2023,
