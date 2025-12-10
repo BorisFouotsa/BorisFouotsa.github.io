@@ -4,9 +4,9 @@ title: Home
 order: 1
 ---
 
-### Hello!  Salut!  Hallo!  Grüezi!   Ciao!   Salam!   Namaste!   你好!   Привет!
+### Hello!  Salut!  Hallo!  Grüezi!   Ciao!   Salam!   Namaste!   你好!   Привет! Systems and software security
 
-## News! On January 2026, I will join the [Software and Security Group](https://www.cs.manchester.ac.uk/research/expertise/systems-and-software-security/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester. If you are interested in PhD positions in Isogeny-Based Cryptography, check [here](https://www.findaphd.com/phds/project/designing-isogeny-based-advanced-protocols/?p192695) and [there](https://www.findaphd.com/phds/project/isogeny-based-cryptography-foundations-and-cryptanalysis/?p192699), and get in touch before applying. 
+## News! On January 2026, I will join the [Systems and  Software Security (S3) Group](https://www.cs.manchester.ac.uk/research/expertise/systems-and-software-security/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester. If you are interested in PhD positions in Isogeny-Based Cryptography, check [here](https://www.findaphd.com/phds/project/designing-isogeny-based-advanced-protocols/?p192695) and [there](https://www.findaphd.com/phds/project/isogeny-based-cryptography-foundations-and-cryptanalysis/?p192699), and get in touch.
 
 Welcome to my webpage! I am Tako Boris Fouotsa, a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).
 
