@@ -7,7 +7,7 @@ order: 1
 ### Hello!  Salut!  Hallo!  Grüezi!   Ciao!   Salam!   Namaste!   你好!   Привет!
 
  \
-**News! In January 2026, I will join the [Systems and  Software Security (S3) Group](https://www.cs.manchester.ac.uk/research/expertise/systems-and-software-security/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester as a Lecturer. If you are interested in PhD positions in Isogeny-Based Cryptography, check [here](https://www.findaphd.com/phds/project/designing-isogeny-based-advanced-protocols/?p192695) and [there](https://www.findaphd.com/phds/project/isogeny-based-cryptography-foundations-and-cryptanalysis/?p192699), and get in touch at takoboris.lastname@manchester.ac.uk.** 
+**News! In January 2026, I will join the [Systems and  Software Security (S3) Group](https://www.cs.manchester.ac.uk/research/expertise/systems-and-software-security/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester as a Lecturer. If you are interested in PhD positions in Isogeny-Based Cryptography, check [here](https://www.findaphd.com/phds/project/designing-isogeny-based-advanced-protocols/?p192695) and [there](https://www.findaphd.com/phds/project/isogeny-based-cryptography-foundations-and-cryptanalysis/?p192699), and get in touch at: takoboris dot fouotsa at manchester dot ac dot uk.** 
 
  \
 Welcome to my webpage! I am Tako Boris Fouotsa, a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).
@@ -29,7 +29,8 @@ I was also short term research assistant at the University of Birmingham's Schoo
 ### Contact
 Office: INF 235 (Bâtiment INF)\
 Address: Station 14, CH-1015 Lausanne\
-Email: tako dot fouotsa at epfl dot ch
+Email: takoboris dot fouotsa at manchester.ac.uk\
+I don't that access to tako dot fouotsa at epfl dot ch anymore.
 
 
 ### My various profiles !!
