@@ -10,9 +10,9 @@ order: 1
 **News! In January 2026, I will join the [Systems and  Software Security (S3) Group](https://www.cs.manchester.ac.uk/research/expertise/systems-and-software-security/) at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester as a Lecturer. If you are interested in PhD positions in Isogeny-Based Cryptography, check [here](https://www.findaphd.com/phds/project/designing-isogeny-based-advanced-protocols/?p192695) and [there](https://www.findaphd.com/phds/project/isogeny-based-cryptography-foundations-and-cryptanalysis/?p192699), and get in touch at: takoboris dot fouotsa at manchester dot ac dot uk.** 
 
  \
-Welcome to my webpage! I am Tako Boris Fouotsa, a Postdoctoral researcher at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/), under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay).
+Welcome to my webpage! I am Tako Boris Fouotsa, an Assistant Professor (Lecturer) in Cryptography at the [Department of Computer Science](https://www.cs.manchester.ac.uk) of The University of Manchester.  
 
-Previously, I was a PhD student at the
+Previously, I spent 4 years at the [LASEC](https://lasec.epfl.ch) group at [EPFL](https://www.epfl.ch/en/) as a Postdoctoral researcher  under the supervision of Professor [Serge Vaudenay](https://people.epfl.ch/serge.vaudenay). Before that, I was a PhD student at the
 [Mathematics and Physics Department](https://matematicafisica.uniroma3.it),
 University of Roma Tre (Italy), under the supervision of Professor [Christophe Petit](http://homepages.ulb.ac.be/~chripeti/index.html) and Professor [Fabrizio Barroero](https://sites.google.com/site/barroerofabrizio/Home). 
 I was also short term research assistant at the University of Birmingham's School of Computer Science during February 2022, under the supervision of Christophe Petit.
@@ -27,8 +27,8 @@ I was also short term research assistant at the University of Birmingham's Schoo
 
 
 ### Contact
-Office: INF 235 (Bâtiment INF)\
-Address: Station 14, CH-1015 Lausanne\
+Office: Room 2.107 (Department of Computer Science)\
+Address: Kilburn Building, Oxford Road, M13 9PL Manchester\
 Email: takoboris dot fouotsa at manchester.ac.uk\
 I don't that access to tako dot fouotsa at epfl dot ch anymore.
 
