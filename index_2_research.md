@@ -10,8 +10,6 @@ order: 1
 
 
 ### Eprints and notes
-
-- *WaterSQI and PRISMO: Quaternion Signatures for Supersingular Isogeny Group Actions*, T. B. Fouotsa, 2025. [Eprint](https://eprint.iacr.org/2025/1737)
   
 - *A note on the prime in SQISignHD*, Tako Boris Fouotsa, 2024. [Draft](https://github.com/BorisFouotsa/BorisFouotsa.github.io/blob/main/files/A_note_on_the_prime_in_SQISignHD.pdf)
   
@@ -19,6 +17,13 @@ order: 1
 
 
 ### Published
+
+
+#### 2026
+
+- *WaterSQI and PRISMO: Quaternion Signatures for Supersingular Isogeny Group Actions*, T. B. Fouotsa, 2025. To appeared at EUROCRYPT 2026. [Eprint](https://eprint.iacr.org/2025/1737)
+- *SPIDER: A Faster and Smaller Identity Based Signature from Isogenies*, joint work with  G. Tchoffo Saah. To appear at PQCrypto 2026.
+- *On the active security of the PEARL-SCALLOP group action*, joint work with M. Houben, G. Lorenzon, R. Rueger and P. Tasbihgou. To appear at PQCrypto 2026. [Eprint](https://eprint.iacr.org/2026/191)
 
 #### 2025
 
