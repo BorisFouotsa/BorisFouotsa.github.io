@@ -50,6 +50,8 @@ order: 2
 
 ### Short visits
 
+**May 7th - 8th 2026:** EPFL Lausanne, Switzerland.\
+**March 11th - 13th 2024:** ENS Lyon, France.\
 **May 22nd - 24th 2023:** LFANT, Bordeaux, France.\
 **November 28th - December 02nd 2022:** IRMAR, Universite de Rennes I, France.\
 **September 19th-20th 2022:** Cybersecurity Research Center, Universite Libre de Bruxelles, Belgium.\
