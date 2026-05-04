@@ -15,6 +15,7 @@ order: 2
 
 ### Program committee 
 
+- [CSCML 2026](https://www.cscml.org), Academic Track,  3-4 December, 2026.
 - [AFRICACRYPT 2026](https://www.africacrypt2026.tn), Hammamet, Tunisia, July 8-10, 2026.
 - [PKC 2026](https://pkc.iacr.org/2026/), West Palm Beach, USA, 25-28 May, 2026.
 - [FCiR 2025](https://www.decifris.it/fcir25), Rome, Italy, 1st October, 2025.
@@ -28,7 +29,8 @@ order: 2
 ### Reviewing services
 
 **Conferences :** 
-- Eurocrypt 2023, 2024, 2025, 2026
+- Crypto 2026,
+- Eurocrypt 2023, 2024, 2025, 2026,
 - ESORICS 2025,
 - CANS 2024,
 - PKC 2021, 2023,
